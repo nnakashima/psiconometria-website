@@ -27,6 +27,7 @@ static-site/
 │   ├── config.js              # Endereços dos scripts de formulário
 │   ├── favicon.svg
 │   └── fonts/                 # Hanken Grotesk e STIX Two (SIL Open Font License), hospedadas localmente
+├── en/ de/ es/               # Versões traduzidas (geradas por tools/i18n.mjs)
 ├── api/                     # Scripts PHP dos formulários (Resend)
 ├── .htaccess                # Cabeçalhos de segurança e cache
 ├── sitemap.xml
@@ -39,6 +40,33 @@ static-site/
 - **Textos da home e das páginas** (dores, exemplo, equação, etapas do método, princípios): `assets/content.js`.
 - **Textos fixos de cada página** (títulos, introduções): direto no `.html`.
 - **Cores e tipografia**: variáveis no início de `assets/styles.css`.
+
+## Idiomas (português, inglês, alemão, espanhol)
+
+O português é a única fonte: as páginas da raiz e `assets/data.js`, `assets/content.js`
+e `assets/app.js`. As versões em inglês (`/en/`), alemão (`/de/`) e espanhol (`/es/`)
+são **geradas** a partir dela pelo script `tools/i18n.mjs`, usando os dicionários
+`i18n/en.json`, `i18n/de.json` e `i18n/es.json` (texto em português → tradução).
+Não edite os arquivos dentro de `en/`, `de/`, `es/` nem de `assets/i18n/`: eles são
+sobrescritos a cada geração.
+
+Depois de mudar qualquer texto em português:
+
+```bash
+cd tools && npm install && cd ..       # só na primeira vez
+node tools/i18n.mjs extract            # atualiza i18n/source.json com os textos atuais
+node tools/i18n.mjs check              # mostra o que falta traduzir em cada idioma
+# traduza as entradas faltando nos arquivos i18n/<idioma>.json
+node tools/i18n.mjs build              # gera /en, /de, /es, hreflang e sitemap
+```
+
+Textos sem tradução aparecem em português na versão gerada, e o `check` os lista.
+No `app.js`, todo texto de interface fica marcado como `T('...')`; frases com valores
+usam marcadores, por exemplo `T('{n} de {total} métodos', { n: 3, total: 49 })`.
+
+O seletor de idioma, com bandeiras, fica no cabeçalho de todas as páginas e leva à
+mesma página no outro idioma. Cada página declara as versões alternativas (`hreflang`)
+para os buscadores.
 
 ## Formulários (contato e newsletter)
 

@@ -5,3 +5,5 @@ apps/pocketbase/pocketbase
 apps/pocketbase/pb_data/*.db*
 apps/pocketbase/pb_data/backups/
 dist-hostinger/
+i18n/parts/
+i18n/chunks/

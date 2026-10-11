@@ -1,0 +1,5950 @@
+[
+ {
+  "pt": "Pessoas movem resultados. A Psiconometria mede como, quanto e com que certeza.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "A Psiconometria é uma abordagem integrada que combina a mensuração rigorosa de características humanas com métodos quantitativos de análise econômica — para compreender como pessoas, comportamentos, relações e decisões influenciam processos e resultados empresariais.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Ver um exemplo passo a passo",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Explore as conexões",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Conheça o método",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Uma proposta metodológica em desenvolvimento.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Fator",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Contexto",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<b>Fig. 1</b>A ideia central em uma linha. A psicometria garante que o <i>Fator</i> mede o que diz medir; a econometria garante que <i>β</i> é estimado sem enganar. Toque em cada termo.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "O conceito",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Resultados econômicos são produzidos por sistemas — e pelas pessoas que lideram, decidem, aprendem e executam.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<strong>Psicometria</strong> é a ciência de medir características humanas com rigor: definir o que se quer medir, saber quanto da medida é sinal e quanto é ruído, e verificar se ela serve para o uso pretendido.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<strong>Econometria</strong> é o conjunto de métodos para estimar relações em dados econômicos: quanto uma variável move outra, com que incerteza, e quando uma associação pode ser lida como causa.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Separadas, cada uma resolve metade do problema. A primeira mede bem, mas raramente chega ao indicador de negócio. A segunda modela indicadores, mas costuma tratar pessoas como um número qualquer. A Psiconometria junta as duas para responder a uma pergunta de gestão: <strong>que fatores humanos movem este resultado, quanto, e com que grau de certeza?</strong>",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Psicometria",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "A ciência de medir características humanas com rigor: validade, confiabilidade, equidade.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<span class=\"math-up\" style=\"color:var(--ink-3);margin-right:0.4em\">+</span>Econometria",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Métodos quantitativos para analisar dados econômicos: incerteza, causalidade, previsão.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<span class=\"math-up\" style=\"color:var(--accent);margin-right:0.4em\">=</span>Psiconometria",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "A proposta integrada: investigar como fatores humanos influenciam processos e resultados empresariais.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Nível 1",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Pessoas",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Nível 2",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Comportamentos",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Nível 3",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Relações",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Nível 4",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Processos",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Nível 5",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Indicadores",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Nível 6",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Valor empresarial",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Mais perto da pessoa, efeito mais direto",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Mais distante, mais causas concorrentes",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<b>Fig. 2</b>Fatores humanos viram comportamentos; comportamentos movem processos; processos movem indicadores. Quanto mais adiante na cadeia, mais outras causas (estratégia, mercado, capital) entram no resultado.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Dez convergências entre duas disciplinas que raramente conversam",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Três formas de explorar",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Entender o conceito",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "O que vem da psicometria, o que vem da econometria e o que surge da combinação — com limites claros.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Explorar métodos",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Um catálogo comparativo de avaliações comportamentais: o que medem, quando usar e o que não prometer.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Analisar KPIs",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "A matriz Pessoas × KPIs: mecanismos plausíveis entre fatores humanos e indicadores empresariais.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Um exemplo, passo a passo",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Por que algumas equipes refazem quase o dobro do trabalho de outras?",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Exemplo ilustrativo, com dados fictícios. Uma rede de atendimento tem 24 equipes que seguem o mesmo processo.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "A pergunta de negócio",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "O retrabalho varia de 6% a 12% das entregas entre equipes. Antes de investir em mais um treinamento, a diretoria quer saber o que explica a diferença.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Descartar o óbvio",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Antes de olhar para pessoas, verificam-se processo, volume, ferramentas e qualidade dos insumos. Nada disso explica a diferença entre equipes que trabalham do mesmo jeito.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Medir o fator humano",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Hipótese: onde é seguro admitir um erro, ele é corrigido antes de virar retrabalho. A segurança psicológica é medida com uma escala curta e validada (Edmondson, 1999), respondida de forma anônima e analisada só como média de cada equipe. Antes de usar o índice, verifica-se a sua confiabilidade.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Relacionar com o indicador",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<b>Fig. 3</b>Retrabalho por índice de segurança psicológica, 24 equipes. Dados fictícios para fins didáticos. A linha mostra a tendência estimada por regressão linear simples.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Efeito estimado (<span class=\"math\">β</span>)",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "−1,5 p.p. por ponto",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Intervalo de 95%",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "−2,9 a −0,2",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Variação explicada (<span class=\"math\">R</span>²)",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Amostra",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "24 equipes",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "A relação existe, mas é modesta e incerta: o fator explica cerca de um quinto da variação, e o intervalo é largo. Sobretudo, é uma <strong>associação</strong>. Equipes mais experientes podem ter, ao mesmo tempo, mais segurança e menos erros. O próximo passo controla tempo de casa e volume, e depois testa.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Testar antes de expandir",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Seis equipes adotam revisões de erro sem busca de culpados; seis equipes semelhantes seguem como estão. Dois trimestres depois, compara-se a mudança do retrabalho nos dois grupos (diferenças-em-diferenças).",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Decidir",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Se o efeito se confirmar e superar o custo, a prática é expandida. Se não, a empresa evitou um programa que não funcionaria e aprendeu onde não procurar. Os dois desfechos têm valor.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Por que importa",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Empresas medem receita ao centavo e pessoas por impressão.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "O maior custo é o menos medido",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Em empresas de serviço, a folha costuma estar entre as maiores linhas de despesa. Ainda assim, decisões de contratação, desenvolvimento e liderança são as que menos se apoiam em dados.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Sem comparação, todo programa parece funcionar",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Quem participou já era diferente, o mercado melhorou, a equipe mudou. Sem linha de base e grupo de comparação, não há como separar o efeito da iniciativa do resto.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Medir mal é pior do que não medir",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Instrumentos usados fora do propósito produzem decisões injustas sobre pessoas e risco jurídico, com aparência de objetividade.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Caso em destaque",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Meta-análise Q12 — engajamento e resultados",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Gallup, meta-análise, 2020 (10ª edição)",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Síntese de centenas de estudos sobre a relação entre engajamento de equipe e resultados de negócio. Associações consistentes entre engajamento e todos os indicadores estudados, com diferenças relevantes entre unidades no topo e na base da distribuição.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<b>Ressalva:</b> Associação estatística não significa que todos os efeitos sejam exclusivamente causados pelo engajamento; a causalidade provavelmente flui nos dois sentidos; estudos patrocinados exigem leitura atenta.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<a class=\"link\" href=\"casos.html\">Ver os cinco casos com fontes</a>",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Onde ajuda",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Sete situações comuns nas empresas, e como a Psiconometria aborda cada uma.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Demonstração",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Da pessoa ao indicador: uma cadeia de mecanismos, não um salto de fé",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Limites",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "O que podemos medir — e o que não devemos prometer",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Podemos",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Medir percepções, comportamentos e dinâmicas de equipe com instrumentos validados.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Relacionar fatores humanos a indicadores operacionais com incerteza explícita.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Testar intervenções com pilotos, grupos de comparação e linhas de base.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Aprender com cada ciclo e recalibrar hipóteses.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Não prometemos",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Prever o sucesso de uma pessoa a partir de um perfil psicológico.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Ligar um traço de personalidade diretamente a valuation, faturamento ou lucro.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Substituir avaliação psicológica profissional por questionários de gestão.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Tratar correlação como causalidade — nunca.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Como começar",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Duas formas de começar, ambas pequenas.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Iniciar um diagnóstico organizacional",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Um diagnóstico não clínico da maturidade de mensuração da sua empresa: o que você já mede, o que falta e por onde começar. Sem testes psicológicos, sem coleta de dados sensíveis.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<a class=\"btn\" href=\"sobre.html#contato\">Converse sobre sua empresa</a>",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Propor um projeto-piloto",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Uma pergunta de negócio, uma linha de base, uma intervenção e indicadores acompanhados com honestidade estatística. É assim que a Psiconometria se prova: em pequena escala, em público.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "<a class=\"btn btn-line\" href=\"metodo.html\">Ver as sete etapas</a>",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Compromisso metodológico e fontes",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Toda afirmação factual deste site indica fonte, ano e tipo de evidência. Trabalhamos a partir de American Psychological Association, AERA/APA/NCME, Conselho Federal de Psicologia e SATEPSI, OECD, World Bank, Google re:Work, Gallup e Our World in Data. Psiconometria é um conceito autoral em desenvolvimento — não uma ciência oficialmente reconhecida nem uma disciplina acadêmica consolidada.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Equação da Psiconometria. Toque em um termo para ver o que ele significa.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Psicometria mais econometria igual a Psiconometria",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Cadeia: pessoas, comportamentos, relações, processos, indicadores, valor empresarial",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Psiconometria | Pessoas, dados e resultados empresariais",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Conheça a Psiconometria, abordagem que conecta psicometria e econometria para investigar como fatores humanos influenciam processos, produtividade e resultados empresariais.",
+  "where": "page:index.html"
+ },
+ {
+  "pt": "Mensurar. Relacionar. Testar. Aprender. Decidir.",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Psiconometria é uma abordagem integrada que combina a mensuração rigorosa de características humanas com métodos quantitativos de análise econômica, buscando compreender como pessoas, comportamentos, relações e decisões influenciam processos e resultados empresariais. É um conceito autoral, uma proposta metodológica em desenvolvimento e uma ferramenta de gestão orientada por evidências — não uma ciência oficialmente reconhecida.",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "O que vem da psicometria",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Construtos bem definidos antes de medir",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Confiabilidade e erro de medida",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Evidências de validade para cada uso",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Equidade e funcionamento diferencial de itens",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "O que vem da econometria",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Incerteza quantificada em toda estimativa",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Separação entre previsão e causalidade",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Experimentos e métodos quase-experimentais",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Dados longitudinais e em painel",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "O que surge da combinação",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Fatores humanos tratados como hipóteses mensuráveis",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Cadeias de mecanismos até os KPIs",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Pilotos com linha de base e grupo de comparação",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Decisões que declaram premissas e limites",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Duas camadas, conexões plausíveis — nunca determinismo",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Toque em um elemento da camada humana para ver onde ele pode incidir na camada empresarial. Nenhuma variável humana isolada determina um resultado financeiro.",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "<b>Fig. 1</b>Camada humana e camada empresarial. As ligações são plausíveis e indiretas, mediadas por processos; cada uma precisa ser medida e testada.",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Distinções que protegem pessoas",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "<b>Limites do método:</b> resultados dependem de contexto, população, qualidade dos dados e validação contínua. Compreender pessoas sem reduzir pessoas a números é um compromisso de desenho — não um slogan.",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "<a class=\"btn btn-line\" href=\"as-duas-disciplinas.html\">Ver as duas disciplinas</a>",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "O que é Psiconometria | Psiconometria",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Origem, fundamentos e limites da Psiconometria: o que vem da psicometria, o que vem da econometria e o que surge da combinação das duas disciplinas.",
+  "where": "page:o-que-e.html"
+ },
+ {
+  "pt": "Fundamentos",
+  "where": "page:as-duas-disciplinas.html"
+ },
+ {
+  "pt": "Dez assuntos de cada disciplina — e dez pontos de encontro",
+  "where": "page:as-duas-disciplinas.html"
+ },
+ {
+  "pt": "Clique em cada assunto para ver definição simples, exemplo organizacional, método de análise, decisão que pode apoiar, limitações e nível de evidência necessário.",
+  "where": "page:as-duas-disciplinas.html"
+ },
+ {
+  "pt": "As duas disciplinas | Psiconometria",
+  "where": "page:as-duas-disciplinas.html"
+ },
+ {
+  "pt": "Dez fundamentos da psicometria, dez da econometria e dez convergências entre elas — com definições, exemplos organizacionais, métodos e limitações.",
+  "where": "page:as-duas-disciplinas.html"
+ },
+ {
+  "pt": "Catálogo expansível",
+  "where": "page:catalogo.html"
+ },
+ {
+  "pt": "Avaliações e métodos, comparados com honestidade",
+  "where": "page:catalogo.html"
+ },
+ {
+  "pt": "Um catálogo abrangente — não definitivo — organizado por famílias. Popularidade não é sinônimo de validade: tipologias como DISC, MBTI e Eneagrama podem facilitar conversas, mas não são equivalentes a instrumentos com maior sustentação psicométrica, e nenhum resultado deve ser usado isoladamente para contratar, demitir ou promover.",
+  "where": "page:catalogo.html"
+ },
+ {
+  "pt": "<b>Antes de usar qualquer instrumento.</b> Instrumentos precisam ser adequados ao propósito, à população, ao idioma e ao contexto. Testes psicológicos de uso privativo devem ser aplicados por profissionais habilitados, e a situação de cada instrumento no SATEPSI precisa ser verificada de forma atualizada antes do uso.",
+  "where": "page:catalogo.html"
+ },
+ {
+  "pt": "Nível de evidência, em quatro marcas: <span class=\"ev\"><span class=\"ev-bar\"><i class=\"on\"></i><i class=\"on\"></i><i class=\"on\"></i><i class=\"on\"></i></span>alta</span>, <span class=\"ev\"><span class=\"ev-bar\"><i class=\"on\"></i><i class=\"on\"></i><i class=\"on\"></i><i></i></span>moderada</span>, <span class=\"ev\"><span class=\"ev-bar\"><i class=\"on\"></i><i class=\"on\"></i><i></i><i></i></span>limitada</span>, <span class=\"ev\"><span class=\"ev-bar\"><i class=\"on\"></i><i></i><i></i><i></i></span>em debate</span>.",
+  "where": "page:catalogo.html"
+ },
+ {
+  "pt": "Catálogo de avaliações e métodos | Psiconometria",
+  "where": "page:catalogo.html"
+ },
+ {
+  "pt": "Catálogo comparativo e filtrável de avaliações comportamentais: o que medem, nível de evidência, usos apropriados, riscos e situação no SATEPSI.",
+  "where": "page:catalogo.html"
+ },
+ {
+  "pt": "Ferramenta exploratória",
+  "where": "page:matriz.html"
+ },
+ {
+  "pt": "Matriz Pessoas × KPIs",
+  "where": "page:matriz.html"
+ },
+ {
+  "pt": "Selecione um fator humano e veja os mecanismos pelos quais ele pode afetar resultados empresariais. Não existe relação direta e determinística entre um perfil psicológico e valuation, faturamento ou lucro — esses são resultados distais, influenciados por estratégia, mercado, capital e concorrência.",
+  "where": "page:matriz.html"
+ },
+ {
+  "pt": "Matriz Pessoas × KPIs | Psiconometria",
+  "where": "page:matriz.html"
+ },
+ {
+  "pt": "Ferramenta exploratória que conecta fatores humanos a indicadores empresariais por cadeias de mecanismos plausíveis — com impactos positivos e negativos, moderadores e força da evidência.",
+  "where": "page:matriz.html"
+ },
+ {
+  "pt": "Simulador educacional",
+  "where": "page:laboratorio.html"
+ },
+ {
+  "pt": "Laboratório de impacto",
+  "where": "page:laboratorio.html"
+ },
+ {
+  "pt": "Uma ferramenta educacional baseada em premissas editáveis — não uma previsão garantida. Altere qualquer premissa e observe como as faixas de resultado se movem.",
+  "where": "page:laboratorio.html"
+ },
+ {
+  "pt": "Laboratório de impacto | Psiconometria",
+  "where": "page:laboratorio.html"
+ },
+ {
+  "pt": "Simulador educacional com premissas editáveis: estime faixas de economia possível ao reduzir turnover, absenteísmo e retrabalho — com cenários, incerteza e plano de teste.",
+  "where": "page:laboratorio.html"
+ },
+ {
+  "pt": "Evidência verificável",
+  "where": "page:casos.html"
+ },
+ {
+  "pt": "Casos reais, com fontes e limites declarados",
+  "where": "page:casos.html"
+ },
+ {
+  "pt": "Cada caso separa problema, hipótese, dados, método, intervenção, resultados e limitações. Nenhum depoimento inventado, nenhum número sem fonte, nenhuma relação causal não demonstrada.",
+  "where": "page:casos.html"
+ },
+ {
+  "pt": "Análise de dados de pessoas exige o mesmo rigor da análise financeira.",
+  "where": "page:casos.html"
+ },
+ {
+  "pt": "Casos e evidências | Psiconometria",
+  "where": "page:casos.html"
+ },
+ {
+  "pt": "Casos reais e pesquisas verificáveis — Google Project Aristotle e Oxygen, meta-análise Gallup Q12, OECD e Microsoft — com método, resultados, limitações e fontes originais.",
+  "where": "page:casos.html"
+ },
+ {
+  "pt": "Método",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "Sete etapas, nenhum atalho",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "A Psiconometria não começa aplicando testes. Começa de uma pergunta de negócio e termina em aprendizagem documentada — com limites explícitos.",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "Exemplo",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "“Por que a taxa de retrabalho aumentou?”",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "A resposta não começa com um teste de personalidade. Antes de formular qualquer hipótese humana, verifique:",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "Só depois disso as hipóteses humanas — fadiga, segurança psicológica, clareza de papéis — entram em cena, com medidas proporcionais e um plano de teste.",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "<a class=\"link\" href=\"index.html#exemplo\">Ver um caso completo, do dado à decisão</a>",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "<a class=\"btn\" href=\"sobre.html#contato\">Proponha um projeto-piloto</a>",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "Método Psiconometria | Psiconometria",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "Uma metodologia prática em sete etapas: da pergunta de negócio à linha de base, do piloto à aprendizagem documentada — com limites declarados.",
+  "where": "page:metodo.html"
+ },
+ {
+  "pt": "Biblioteca editorial",
+  "where": "page:glossario.html"
+ },
+ {
+  "pt": "Glossário",
+  "where": "page:glossario.html"
+ },
+ {
+  "pt": "Termos técnicos com explicação curta e exemplo empresarial. Artigos, guias executivos, análises de instrumentos e materiais para download entram nesta biblioteca nas próximas edições.",
+  "where": "page:glossario.html"
+ },
+ {
+  "pt": "Conteúdo e glossário | Psiconometria",
+  "where": "page:glossario.html"
+ },
+ {
+  "pt": "Biblioteca editorial da Psiconometria: glossário de conceitos de psicometria e econometria com exemplos empresariais, guias e materiais em construção.",
+  "where": "page:glossario.html"
+ },
+ {
+  "pt": "Sobre",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Manifesto da Psiconometria",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Pessoas não são ativos mecânicos, rankings ou meros recursos produtivos. A Psiconometria existe para que organizações tratem fatores humanos com o mesmo rigor com que tratam números — e tratem números sobre pessoas com o mesmo cuidado com que tratam pessoas.",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Compreender pessoas sem reduzir pessoas a números. Transformar fatores humanos em hipóteses mensuráveis — e hipóteses em decisões verificáveis, com rigor quantitativo, contexto e ética.",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Aprendizagem coletiva: o ativo que nenhum dashboard captura sozinho.",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Princípios",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Informações institucionais",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "[Marcador editável: equipe, credenciais, clientes, parceiros e endereço serão publicados aqui quando fornecidos — sem invenções.]",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Contato",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Empresas interessadas em diagnóstico organizacional não clínico ou projetos-piloto, e pesquisadores e profissionais interessados em colaboração, são bem-vindos.",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Responderemos pelo e-mail informado. Nenhum dado psicológico é solicitado neste formulário.",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Sobre, ética e contato | Psiconometria",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Manifesto, princípios metodológicos, política de fontes, ética e privacidade da Psiconometria — e como propor um projeto-piloto ou colaboração.",
+  "where": "page:sobre.html"
+ },
+ {
+  "pt": "Definição e operacionalização de construtos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Transformar um conceito abstrato (engajamento, confiança, liderança) em algo observável e mensurável, com regras explícitas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Antes de \"medir engajamento\", definir se ele significa vigor, dedicação e absorção — e quais comportamentos o expressam.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Revisão de literatura, validação de conteúdo por especialistas e pré-testes cognitivos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escolher o que entra — e o que não entra — em uma pesquisa de clima ou em um painel de pessoas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construtos mal definidos geram medidas que parecem precisas, mas medem outra coisa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico (AERA/APA/NCME, Standards for Educational and Psychological Testing).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiabilidade, precisão e erro de medida",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Toda medida contém erro. Confiabilidade indica quanto do resultado é sinal estável e quanto é ruído.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Uma pesquisa de pulso com três perguntas pode variar semana a semana sem que nada tenha mudado de fato.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Coeficientes como alfa de Cronbach, consistência teste-reteste e erro padrão de medida.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Decidir se uma queda de 4 pontos no clima é mudança real ou oscilação esperada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiabilidade alta não garante que o instrumento mede o que promete (isso é validade).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico; quantificável em cada aplicação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidências de validade e adequação ao propósito",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validade é o grau em que as evidências apoiam a interpretação dos resultados para um uso específico — não uma propriedade eterna do teste.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um instrumento válido para desenvolvimento de equipes pode não ter evidência suficiente para seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidências de conteúdo, de estrutura interna e de relação com critérios externos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autorizar — ou vetar — o uso de um instrumento em um processo seletivo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validade depende de contexto, população, idioma e propósito; não se transfere automaticamente.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico (Standards AERA/APA/NCME).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Padronização, normatização e percentis",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comparar o resultado de uma pessoa com um grupo de referência relevante, usando aplicação e correção padronizadas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um percentil 70 em raciocínio numérico só faz sentido se o grupo normativo for compatível com o cargo e o país.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Amostras normativas, tabelas de percentis e grupos de referência.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Definir faixas de corte justas em processos de seleção ou desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Normas de outro país ou de outra década podem distorcer decisões.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico; exige normas atualizadas e locais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Teoria Clássica dos Testes (TCT)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelo que decompõe cada pontuação em \"escore verdadeiro + erro\", base da maioria dos instrumentos tradicionais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estimar quanto da nota de uma avaliação de desempenho reflete a pessoa e quanto reflete o avaliador.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise de itens, confiabilidade e erro padrão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliar rapidamente a qualidade de um questionário interno já em uso.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "As propriedades dos itens dependem da amostra em que foram calculadas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico clássico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Teoria de Resposta ao Item (TRI)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modela a probabilidade de resposta a cada item em função do nível latente da pessoa, permitindo medidas adaptativas e comparáveis.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comparar candidatos que responderam conjuntos diferentes de questões de raciocínio lógico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelos de Rasch, 2PL/3PL, calibração de itens e testes adaptativos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construir bancos de itens e avaliações adaptativas em larga escala.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exige amostras grandes e expertise estatística; pouco prática para pesquisas pequenas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico em avaliação educacional e psicológica de larga escala.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise fatorial e variáveis latentes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar se os itens de um instrumento realmente se organizam nas dimensões teóricas previstas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confirmar se uma pesquisa de liderança mede de fato \"dar direção\" e \"desenvolver pessoas\" como fatores separados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise fatorial exploratória e confirmatória, modelos de equações estruturais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Simplificar dezenas de perguntas em poucos indicadores confiáveis.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fatores são construções estatísticas — nomes bonitos não garantem significado real.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico; qualidade depende de amostra e teoria.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construção, seleção e análise de itens",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Redigir, testar e depurar cada pergunta de um instrumento antes de usá-lo para decidir.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Remover de uma pesquisa de clima itens ambíguos que metade dos respondentes interpreta de outro jeito.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise de dificuldade, discriminação, correlação item-total e entrevistas cognitivas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Melhorar pesquisas internas em vez de trocar de fornecedor a cada ciclo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Itens bons em uma cultura organizacional podem falhar em outra.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equidade, vieses e funcionamento diferencial dos itens (DIF)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar se um item funciona do mesmo jeito para grupos diferentes (gênero, idade, raça, região) com o mesmo nível real do construto.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Detectar que uma questão de \"assertividade\" penaliza sistematicamente mulheres em uma cultura específica.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise de DIF, invariância de medida e auditorias de equidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Garantir que avaliações não reproduzam desigualdades em seleção e promoção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exige tamanhos de grupo suficientes; ausência de DIF estatístico não elimina viés social.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico; prática obrigatória em avaliações de alto impacto.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Interpretação, validade preditiva e uso responsável",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Traduzir resultados em decisões proporcionais à força da evidência, com comunicação honesta dos limites.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Usar um inventário de personalidade como insumo de conversa de desenvolvimento — não como veredito de contratação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estudos de validade de critério, análise de impacto adverso e revisão periódica.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Definir o peso de cada instrumento em decisões sobre pessoas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validade preditiva costuma ser moderada; contexto e combinação de métodos importam mais que qualquer teste isolado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Meta-análises centenárias (ex.: Schmidt & Hunter) com atualizações contínuas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estatística descritiva e exploração de dados",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Resumir distribuições, dispersões e padrões antes de qualquer modelo — o mapa antes da estrada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Antes de explicar o turnover, olhar sua distribuição por área, tempo de casa e faixa salarial.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Medidas de tendência e dispersão, histogramas, tabelas cruzadas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Encontrar onde o problema realmente está antes de investir na solução errada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Descrever não explica: padrões visíveis podem ter causas invisíveis.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Base de toda análise quantitativa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Regressão linear e modelos multivariados",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estimar a associação entre uma variável e um resultado, mantendo outras constantes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Associar horas de treinamento a produtividade, controlando por experiência e ferramentas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "MQO, regressões logísticas e multiníveis, seleção de controles.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estimar quanto do resultado se associa a cada fator, com incerteza explícita.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Controle estatístico não elimina viés de variáveis não observadas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico; interpretação causal exige desenho adicional.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inferência estatística e quantificação da incerteza",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Toda estimativa vem com uma margem. Intervalos de confiança comunicam o que sabemos — e o que não sabemos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Informar que o ganho estimado de produtividade ficou entre 1% e 7%, e não \"foi de 4%\".",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Intervalos de confiança, testes de hipótese, bootstrap.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evitar decisões binárias sobre estimativas frágeis.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Intervalos pressupõem que o modelo e a amostra são adequados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Endogeneidade, variáveis omitidas e erro de mensuração",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O resultado pode afetar a causa, causas ocultas podem inflar associações, e medidas ruins distorcem tudo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equipes engajadas vendem mais — ou equipes que vendem mais ficam engajadas? Provavelmente os dois.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise de sensibilidade, variáveis instrumentais, desenhos que quebram a circularidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Saber quando uma associação bonita não deve virar programa corporativo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Nem sempre existe solução estatística; às vezes só um experimento resolve.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico central da econometria.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dados em painel e análise longitudinal",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Acompanhar as mesmas unidades (pessoas, equipes, filiais) ao longo do tempo para separar o que muda do que é estável.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comparar a mesma equipe antes e depois da troca de liderança, e não equipes diferentes em um único momento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelos de efeitos fixos e aleatórios, painéis de equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliar mudanças reais dentro das unidades, e não diferenças entre unidades.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exige dados consistentes ao longo do tempo — raro em RH sem preparação prévia.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Séries temporais e previsão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelar a evolução de indicadores ao longo do tempo para projetar cenários e detectar quebras.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Projetar absenteísmo sazonal para dimensionar cobertura de turnos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "ARIMA, suavização, modelos de quebra estrutural.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Planejar capacidade e antecipar desvios de indicadores de pessoas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Previsão boa não implica compreensão causal; choques externos quebram padrões.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Experimentos, testes A/B e avaliações randomizadas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sortear quem recebe uma intervenção para isolar seu efeito — o padrão-ouro da inferência causal.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Testar um novo formato de feedback em metade das equipes, sorteadas, antes de escalar.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Randomização, cálculo de poder estatístico, análise por intenção de tratar.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Saber se um programa de desenvolvimento funciona antes de pagar pela versão completa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Nem toda intervenção pode ser randomizada; efeitos de curto prazo podem não persistir.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Padrão-ouro quando viável (World Bank/J-PAL).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Métodos quase-experimentais",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Quando não há sorteio, usar quebras naturais: comparar antes/depois entre grupos (diferenças-em-diferenças) ou ao redor de um corte (regressão descontínua).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comparar a evolução do retrabalho em plantas que adotaram um programa com plantas semelhantes que ainda não adotaram.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diferenças-em-diferenças, regressão descontínua, pareamento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliar políticas internas já implementadas, sem novo experimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dependem de pressupostos (tendências paralelas) que precisam ser testados e declarados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico com pressupostos verificáveis.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Variáveis instrumentais, controles e identificação causal",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estratégias para aproximar causalidade quando a variável de interesse é contaminada por fatores ocultos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Usar uma mudança de política externa como fonte de variação \"quase aleatória\" em treinamento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Variáveis instrumentais, desenho de identificação, testes de robustez.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dar um passo além da correlação quando experimentos são impossíveis.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Bons instrumentos são raros; instrumentos fracos enganam com precisão falsa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consenso metodológico; aplicação exige justificativa forte.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diagnóstico de modelos, robustez e apoio à decisão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Testar se as conclusões sobrevivem a especificações alternativas — e comunicar o resultado para quem decide.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mostrar que a associação entre liderança e retenção se mantém com três definições diferentes de turnover.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise de resíduos, especificações alternativas, curvas de sensibilidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Transformar análise em recomendação com grau de confiança explícito.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Robustez estatística não substitui julgamento contextual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Transformar conceitos em variáveis observáveis",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "As duas disciplinas começam pelo mesmo gesto: dar forma mensurável a algo invisível — um construto ou um conceito econômico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "\"Confiança na liderança\" vira uma escala validada; \"esforço\" vira horas, entregas ou adoção de ferramenta.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Operacionalização de construtos + definição de indicadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Alinhar RH e finanças sobre o que exatamente está sendo medido.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Toda operacionalização é uma redução — o mapa nunca é o território.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fundamento compartilhado das duas áreas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Separar sinal de ruído",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Distinguir variação real de oscilação aleatória antes de agir.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um mês ruim de eNPS pode ser ruído; três trimestres consecutivos, provavelmente sinal.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiabilidade (psicometria) + inferência e intervalos (econometria).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evitar reações exageradas a oscilações normais de indicadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exige histórico e disciplina de coleta.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fundamento compartilhado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Trabalhar com dados imperfeitos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Respostas enviesadas, amostras incompletas e registros administrativos ruins são a regra, não a exceção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa de clima com 40% de adesão concentra opiniões de quem já está mais engajado — ou mais irritado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise de não resposta, imputação, ponderação e declaração explícita das falhas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Calibrar a confiança nas conclusões de acordo com a qualidade dos dados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Nenhuma técnica recupera informação que nunca foi coletada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Quantificar incerteza",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comunicar estimativas com margens, faixas e cenários — nunca como números mágicos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "\"O programa pode economizar entre R$ 180 mil e R$ 520 mil por ano\" em vez de \"economiza R$ 350 mil\".",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Erros padrão, intervalos de confiança, análise de cenários.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dimensionar investimentos com prudência explícita.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Incerteza comunicada não elimina incerteza real.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validar instrumentos e modelos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tanto um questionário quanto um modelo preditivo precisam provar que funcionam — no contexto em que serão usados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um modelo de risco de saída treinado em 2022 pode falhar após uma reorganização.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validação cruzada, evidências de validade, monitoramento de drift.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Manter ou aposentar instrumentos e modelos com critério.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validação é contínua, não um selo único.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Identificar padrões e diferenças entre grupos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comparar equipes, unidades e coortes para localizar onde agir — com cuidado para não punir grupos por contexto.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Duas filiais com o mesmo turnover podem ter causas opostas: salário em uma, liderança em outra.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comparações ajustadas, análise multinível, invariância de medida.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Direcionar intervenções para onde o mecanismo é o esperado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comparações brutas entre áreas diferentes geram injustiça e erro.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estudar mudanças ao longo do tempo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O que interessa raramente é a fotografia; é o filme.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "A trajetória de segurança psicológica de uma equipe diz mais que sua nota isolada no trimestre.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Medidas repetidas, painéis, séries temporais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliar se intervenções mudam trajetórias, não apenas momentos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exige constância de coleta — o ponto fraco de muitos programas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Prever sem confundir previsão com causalidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um modelo pode prever muito bem quem vai pedir demissão sem explicar por quê — e sem dizer o que mudaria a decisão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Prever risco de saída ajuda a priorizar conversas; não prova que \"falta de reconhecimento\" é a causa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelos preditivos + desenhos causais separados e declarados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Usar previsão para alocar atenção e causalidade para escolher intervenções.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Agir sobre previsões como se fossem causas pode desperdiçar recursos ou gerar injustiça.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fundamento compartilhado — e a confusão mais comum no mercado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Investigar vieses e limites de generalização",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perguntar sempre: para quem, onde e quando esta conclusão vale?",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência sobre engajamento em empresas de tecnologia dos EUA não se transfere automaticamente para indústrias brasileiras.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise de equidade, replicação, revisão de contexto.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Adaptar práticas importadas antes de adotá-las.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Generalização é sempre uma hipótese a testar, nunca um dado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Converter evidência em decisões verificáveis",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O ponto final das duas disciplinas: decisões que declaram suas premissas e aceitam ser testadas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "\"Vamos investir em liderança porque esperamos reduzir o retrabalho em 10% em dois trimestres — e vamos medir.\"",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Hipóteses registradas, linha de base, indicadores antecedentes e resultantes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Criar um ciclo de aprendizagem em vez de uma sequência de modismos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exige paciência institucional: resultados distais levam tempo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fundamento compartilhado — e a essência da Psiconometria.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Personalidade e estilo comportamental",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inteligência emocional e competências socioemocionais",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Motivação, valores, interesses e propósito",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Crenças, agência e autorregulação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Forças, talentos e estilos de contribuição",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Relacionamento, comunicação e conflitos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Liderança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade cognitiva e julgamento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desempenho e comportamento observado",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cultura, clima, engajamento e experiência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Integridade, risco e ética",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Big Five / Five-Factor Model (ex.: BFI-2)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cinco grandes dimensões de personalidade: abertura, conscienciosidade, extroversão, amabilidade e estabilidade emocional.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Traço",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento, pesquisa e seleção (com instrumentos validados e profissional habilitado).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Alta",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Individual",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gratuito",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desempenho no cargo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Turnover",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Trabalho em equipe",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Conscienciosidade e estabilidade emocional se associam de forma consistente a desempenho em diversos cargos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Base empírica mais acumulada da psicologia da personalidade; versões públicas como o BFI-2 permitem uso em pesquisa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Usar pontuações brutas sem normas locais; tratar traço como destino; decisões de seleção exigem validação no contexto.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Instrumentos específicos precisam de verificação individual no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Soto & John (2017); Saucier & Goldberg — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "HEXACO",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seis dimensões de personalidade, incluindo honestidade-humildade, ausente do Big Five clássico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa e desenvolvimento; útil quando integridade e cooperação importam.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamento ético",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cooperação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Contraprodutividade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Honestidade-humildade se associa a menor comportamento contraproducente e maior cooperação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inventário público (hexaco.org) com traduções; dimensão adicional relevante para risco e ética.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos normas brasileiras disponíveis; uso em seleção exige validação local.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar situação de versões específicas no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ashton & Lee (2007) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "NEO (NEO-PI-R / NEO-PI-3)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Os cinco fatores com facetas detalhadas (30 subdimensões).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliação psicológica aprofundada, coaching executivo, pesquisa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Proprietário",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Potencial de liderança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Facetas de conscienciosidade refinam a previsão de desempenho em cargos complexos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Profundidade de facetas útil para planos de desenvolvimento individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custo e necessidade de interpretação por psicólogo; excesso de detalhe pode gerar falsa precisão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar versão e editora no SATEPSI antes do uso no Brasil.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "McCrae & Costa — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "16PF",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dezesseis fatores primários de personalidade, derivados do trabalho lexical de Cattell.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção e desenvolvimento em contextos organizacionais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Moderada",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ajuste pessoa-cargo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perfis de fatores se associam a estilos de trabalho e reações a demandas do cargo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Longa tradição de uso organizacional e literatura acumulada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estrutura de 16 fatores é menos replicável que o modelo de cinco; interpretação exige formação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar edição atual no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cattell; IPAT — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Hogan (HPI, HDS, MVPI)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Lado brilhante (HPI), riscos de descarrilamento sob pressão (HDS) e valores/motivadores (MVPI).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção executiva, sucessão e desenvolvimento de liderança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Efetividade gerencial",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retenção de talentos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Clima da equipe",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tendências de descarrilamento sob estresse antecipam comportamentos que degradam equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Foco explícito em riscos de liderança, raro em outros inventários.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custo alto; relatórios exigem devolutiva qualificada; evidência independente menor que a do Big Five.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar situação no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Hogan Assessments — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "OPQ (SHL)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Preferências comportamentais no trabalho em 32 dimensões.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Preferência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção e desenvolvimento em larga escala.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Preferências alinhadas às demandas do cargo tendem a facilitar desempenho e adaptação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ampla normatização internacional e integração com baterias de capacidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Preferência não é competência; não usar como único filtro de seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "SHL — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "CPI (California Psychological Inventory)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dimensões de funcionamento interpessoal e autorregulação em populações não clínicas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento de liderança e seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Relacionamento interpessoal",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dimensões como responsabilidade e tolerância se associam a conduta profissional.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Linguagem voltada a pessoas \"comuns\", útil em contextos corporativos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos difundido no Brasil; normas locais limitadas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gough; The Myers-Briggs Company — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "DISC / Everything DiSC",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Preferências comportamentais em quatro estilos: dominância, influência, estabilidade e conformidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comunicação, vendas e dinâmicas de equipe — como linguagem de conversa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Limitada",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Coletiva",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equipes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Licenciado",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comunicação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Colaboração",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Uma vocabulário comum pode facilitar conversas sobre diferenças de estilo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Baixa barreira de entrada; útil para iniciar diálogos de equipe.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tipologia simplifica diferenças humanas; popularidade não é validade; não usar para contratar, promover ou demitir.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não se aplica como teste psicológico; ainda assim, uso decisório exige cautela.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Revisões críticas de tipologias — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "MBTI",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Preferências em quatro dicotomias que geram 16 \"tipos\" de personalidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autoconhecimento e dinâmicas de equipe, com ressalvas fortes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Em debate",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autoconhecimento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pode estimular reflexão sobre preferências de trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Popular e acessível como porta de entrada para conversas de desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tipos não se replicam bem como categorias estáveis; a própria editora desaconselha uso em seleção; não tratar como equivalente ao Big Five.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não se aplica como teste psicológico; uso decisório é desaconselhado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pittenger (2005); The Myers-Briggs Company — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Eneagrama",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Nove tipos de motivação e padrões de comportamento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autoconhecimento informal; sem respaldo para uso decisório.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Narrativas de tipo podem gerar reflexão individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Engajamento alto em programas de autodesenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência psicométrica fraca; risco de rotulagem; não usar em qualquer decisão de gestão de pessoas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não se aplica.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Revisões críticas — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "PDA (Personal Development Analysis)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perfil comportamental e energia percebida no contexto de trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento e comunicação de equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Linguagem compartilhada sobre estilos pode melhorar conversas de feedback.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Difusão comercial ampla na América Latina.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência independente escassa; não usar isoladamente em seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não se aplica como teste psicológico; cautela em uso decisório.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Documentação do fornecedor — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Predictive Index",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Drives comportamentais no trabalho e alvos de cargo definidos pela empresa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção e desenho de equipes em escala comercial.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Alinhamento entre drives e demandas do cargo pode facilitar adaptação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Implementação rápida e linguagem acessível a gestores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência independente limitada; alvos de cargo definidos por consenso interno podem codificar vieses.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Caliper Profile",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Traços de personalidade e motivação relacionados a desempenho no trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção comercial e desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desempenho em vendas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Combinações de traços se associam a desempenho em famílias de cargos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelos de cargo prontos para funções comerciais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência publicada majoritariamente pelo fornecedor; validar no contexto antes de decisões.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Birkman Method",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamentos usuais, necessidades percebidas e reações sob estresse.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Percepção",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Coaching, desenvolvimento de equipes e carreira.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gestão de conflitos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tornar necessidades explícitas pode prevenir mal-entendidos de equipe.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Distingue comportamento visível de necessidade subjacente — distinção útil em coaching.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência independente limitada; não usar em seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não se aplica como teste psicológico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "MSCEIT",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inteligência emocional como habilidade: perceber, usar, compreender e regular emoções (tarefas, não autorrelato).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Competência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa e desenvolvimento de liderança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Habilidades de regulação emocional apoiam decisões sob pressão e mediação de conflitos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Formato baseado em desempenho, menos vulnerável a autoimagem distorcida.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Correção por consenso é debatida; correlações com autorrelatos são baixas — medem coisas diferentes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mayer, Salovey & Caruso — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "EQ-i 2.0",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Competências socioemocionais por autorrelato em cinco áreas compostas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento e coaching executivo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Bem-estar",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autorrelato de autorregulação e empatia se associa a avaliações de efetividade gerencial.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Relatórios de desenvolvimento maduros e ampla rede de aplicadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autorrelato é sensível a autoimagem; sobreposição parcial com personalidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Bar-On; MHS — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "ESCI (Korn Ferry Hay)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Competências emocionais e sociais por avaliação 360°.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento de liderança com múltiplas fontes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamentos observados por pares e liderados capturam o que autorrelatos perdem.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perspectiva de múltiplos observadores reduz viés de autoimagem.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliadores também têm vieses; exige desenho cuidadoso de confidencialidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Boyatzis; Korn Ferry — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "TEIQue",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inteligência emocional como traço (autorrelato), em 15 facetas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa e desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Traço de IE se associa a bem-estar e satisfação percebidos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estrutura fatorial bem documentada em pesquisa acadêmica.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sobreposição com personalidade; autorrelato limita uso em seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Petrides — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Self-Determination Theory (escalas)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Motivação autônoma vs. controlada e satisfação das necessidades de autonomia, competência e vínculo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estado",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diagnóstico de motivação de equipes e desenho de trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cultura",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Engajamento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Persistência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ambientes que apoiam autonomia, competência e vínculo sustentam motivação intrínseca.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Teoria com décadas de evidência experimental e aplicada; escalas públicas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estados variam com contexto; medir uma vez não descreve a pessoa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escalas de pesquisa; verificar quando adaptadas como teste.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Deci & Ryan; selfdeterminationtheory.org — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Schwartz Values Survey (PVQ)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Valores humanos universais em dez domínios (ex.: autonomia, segurança, benevolência).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa de cultura e alinhamento de valores organizacionais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Alinhamento cultural",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Congruência entre valores pessoais e organizacionais se associa a comprometimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Teoria de valores mais testada transculturalmente.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Valores são estáveis e amplos — não preveem comportamentos específicos de curto prazo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Instrumento de pesquisa; verificar adaptações.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Schwartz (1992; 2012) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Reiss Motivation Profile",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dezesseis motivadores básicos (ex.: poder, curiosidade, ordem).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Coaching e desenvolvimento individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Motivação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Alinhamento entre motivadores e atividades pode sustentar engajamento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Vocabulário motivacional concreto para conversas de carreira.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Reiss — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "RIASEC / Holland",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Interesses vocacionais em seis tipos (Realista, Investigativo, Artístico, Social, Empreendedor, Convencional).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Orientação de carreira e mobilidade interna.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retenção",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Congruência interesse-ambiente se associa a satisfação e permanência.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelo vocacional mais estudado; instrumentos públicos (ex.: O*NET Interest Profiler).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Interesse não é aptidão; não usar como filtro de seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar versões específicas no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Holland; O*NET — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Âncoras de carreira de Schein",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Oito âncoras de carreira (ex.: competência técnica, autonomia, segurança, empreendedorismo).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Planejamento de carreira e retenção de talentos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Satisfação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Decisões de carreira coerentes com a âncora tendem a gerar maior satisfação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Útil em conversas estruturadas de carreira e sucessão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autorrelato reflexivo; não mede competência.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Schein — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Locus de Controle (Rotter e escalas de trabalho)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Crença sobre a origem do controle dos eventos: interna (próprias ações) ou externa (sorte, outros).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa organizacional e desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Proatividade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Locus interno se associa a iniciativa e persistência moderadamente maiores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construto clássico com escalas públicas e histórico de pesquisa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Efeitos modestos; risco de culpabilizar indivíduos por condições estruturais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escalas de pesquisa; verificar adaptações.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Rotter (1966); Judge & Bono — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autoeficácia (Bandura)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Crença na própria capacidade de executar tarefas específicas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenho de treinamento e desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Aprendizado",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Adaptação a mudanças",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autoeficácia específica prediz persistência e desempenho na tarefa correspondente.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um dos preditores mais consistentes de desempenho em treinamento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Deve ser medida por domínio; escalas genéricas perdem precisão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Bandura — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Grit",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perseverança e paixão por objetivos de longo prazo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa e desenvolvimento, com cautela.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Conclusão de programas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perseverança se associa a permanência em trajetórias longas de aprendizagem.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construto intuitivo e de fácil comunicação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sobreposição forte com conscienciosidade; validade incremental contestada; não usar em seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escala de pesquisa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Duckworth; Credé et al. (2017, meta-análise crítica) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escalas de resiliência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade percebida de recuperação diante de adversidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Programas de bem-estar conduzidos por profissionais habilitados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Absenteísmo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Recursos de recuperação podem amortecer efeitos de estresse crônico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Útil para avaliar programas de bem-estar com acompanhamento profissional.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Risco de responsabilizar o indivíduo por condições de trabalho inadequadas; uso clínico é privativo de psicólogos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar instrumento específico no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Connor & Davidson; revisões — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "CliftonStrengths (Gallup)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "34 temas de talento ordenados por intensidade percebida.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento baseado em pontos fortes e composição de equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Foco em pontos fortes pode aumentar autoeficácia e qualidade das conversas de desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Linguagem positiva e ampla base instalada; útil para desenvolvimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência independente limitada; não usar em seleção; \"talento\" aqui é autorrelato de preferência.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gallup — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "VIA Character Strengths",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "24 forças de caráter (ex.: curiosidade, justiça, perseverança).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento e programas de bem-estar.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Uso consciente de forças se associa a bem-estar em estudos de psicologia positiva.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inventário público com pesquisa acadêmica ativa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Efeitos em resultados organizacionais são indiretos; não usar em seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Instrumento de pesquisa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Peterson & Seligman; VIA Institute — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Belbin Team Roles",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Nove papéis de contribuição em equipe (ex.: implementador, finalizador, investigador de recursos).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Composição e diagnóstico de equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Coesão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tornar papéis explícitos pode melhorar a divisão de trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Linguagem prática para conversas de equipe.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Papéis não são fixos; evidência preditiva limitada; não usar para montar equipes por \"fórmula\".",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Belbin — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Strength Deployment Inventory (SDI)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Motivações em situações de harmonia e de conflito.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gestão de conflitos e desenvolvimento de equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Compreender mudanças de motivação sob conflito pode prevenir escaladas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Foco explícito no contraste harmonia/conflito.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência independente limitada; uso decisório desaconselhado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Thomas-Kilmann (TKI)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cinco modos de lidar com conflito: competir, colaborar, evitar, acomodar e comprometer-se.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Treinamento de negociação e gestão de conflitos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de resolução de problemas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Repertório flexível de modos de conflito se associa a melhores acordos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelo simples e acionável para treinamento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autorrelato de preferência, não observação; contexto muda o modo eficaz.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Thomas & Kilmann — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "FIRO-B",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Necessidades interpessoais expressas e desejadas: inclusão, controle e abertura.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento de equipes e liderança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Compatibilidade de necessidades pode influenciar atrito interpessoal.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Modelo interpessoal clássico com linguagem acessível.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Evidência contemporânea limitada; não usar em seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Schutz — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escala de segurança psicológica (Edmondson)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Percepção compartilhada de que a equipe é segura para assumir riscos interpessoais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diagnóstico de equipes e programas de aprendizagem.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inovação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retrabalho",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Segurança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pessoas relatam erros e dúvidas mais cedo; problemas são corrigidos antes de escalar.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sete itens públicos; construto central no Project Aristotle (Google) e em pesquisa de segurança do paciente.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confundir segurança psicológica com ausência de cobrança; medir sem agir destrói confiança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Edmondson (1999) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Leadership Practices Inventory (LPI)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cinco práticas de liderança por autorrelato e avaliação de observadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento de liderança com feedback 360°.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Engajamento da equipe",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Práticas observáveis de liderança se associam a comprometimento dos liderados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Foco em comportamentos treináveis, não em traços.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Observadores têm vieses; feedback exige devolutiva estruturada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Kouzes & Posner — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Multifactor Leadership Questionnaire (MLQ)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Liderança transformacional, transacional e laissez-faire.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desempenho da equipe",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamentos transformacionais se associam a desempenho e satisfação de equipes em meta-análises.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Instrumento mais usado na pesquisa de liderança transformacional.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fatores correlacionados entre si; risco de efeito halo nas avaliações.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Bass & Avolio; Judge & Piccolo (2004) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Feedback 180° e 360°",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Percepções de múltiplas fontes (gestor, pares, liderados, clientes) sobre comportamentos de trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenvolvimento de liderança e gestão de desempenho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confrontar autoimagem com percepção alheia pode orientar mudança comportamental.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Captura o que nenhum autorrelato captura: o impacto percebido nos outros.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sem anonimato e devolutiva, vira instrumento de retaliação; não usar isoladamente para remuneração ou promoção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Depende do instrumento usado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Revisões de feedback multissfonte — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade mental geral (baterias de raciocínio)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Raciocínio verbal, numérico e abstrato; aprendizagem e solução de problemas novos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção — com validação local, profissional habilitado e análise de impacto adverso.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Aprendizado em treinamento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade geral é o preditor isolado mais consistente de desempenho em cargos complexos (meta-análises centenárias).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validade preditiva alta, especialmente combinada a entrevistas estruturadas e amostras de trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Impacto adverso sobre grupos precisa ser monitorado; nunca usar como único critério; exige normas locais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Testes psicológicos: uso privativo de psicólogos; verificar cada instrumento no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Schmidt & Hunter (1998); Sackett et al. (2022) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Raven (Matrizes Progressivas)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Raciocínio abstrato não verbal.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção e pesquisa, por profissional habilitado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Resolução de problemas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Raciocínio fluido apoia aprendizagem em contextos novos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Formato não verbal reduz dependência de idioma.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não elimina diferenças de familiaridade cultural; uso privativo de psicólogos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar edição no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Raven; Pearson — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Wonderlic",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade cognitiva geral em formato curto e cronometrado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção em larga escala, com validação local.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Versão curta de capacidade geral; velocidade pesa no escore.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Aplicação rápida e barata em volume.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cronometragem penaliza perfis diversos; normas brasileiras limitadas; verificar equivalência.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Wonderlic Inc. — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Testes de julgamento situacional (SJT)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Julgamento em cenários de trabalho realistas, com alternativas de resposta.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção e desenvolvimento, com cenários validados para o contexto.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade de decisão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Simula decisões do dia a dia; validade preditiva consistente em meta-análises.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Face válida alta e menor impacto adverso que testes cognitivos puros.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cenários genéricos perdem validade; construção sob medida exige investimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "McDaniel et al. (meta-análises) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Entrevistas estruturadas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Competências por perguntas padronizadas, âncoras comportamentais e avaliação independente.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção — o método de entrevista com melhor evidência.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade de contratação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estrutura reduz ruído e viés de entrevistadores; validade preditiva alta em meta-análises.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custo baixo e grande ganho sobre entrevistas livres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exige treinamento e disciplina; estrutura mal desenhada mede o critério errado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não é teste psicológico; boas práticas de seleção ainda se aplicam.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Amostras de trabalho e simulações",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desempenho em tarefas que reproduzem o trabalho real (in-basket, role play, estudos de caso).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção e avaliação de prontidão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo até produtividade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Observar o trabalho é mais informativo que perguntar sobre ele.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Entre os melhores preditores de desempenho; alta aceitação dos candidatos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custo de desenho e correção; tarefas precisam representar o cargo de fato.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não é teste psicológico em si; combinações podem exigir psicólogo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Assessment centers",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Múltiplas competências por múltiplos exercícios e múltiplos avaliadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção executiva e identificação de potencial.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sucesso em promoções",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Triangulação de exercícios e avaliadores reduz viés de método único.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Riqueza de observação comportamental incomparável.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custo alto; validade depende do rigor do desenho; dimensões internas são difíceis de separar.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Condução por psicólogos recomendada; verificar instrumentos usados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Revisões de assessment centers — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gallup Q12",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Engajamento de equipe em 12 itens (expectativas, recursos, reconhecimento, desenvolvimento).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa de engajamento com benchmarks e acompanhamento por equipe.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Organizacional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Produtividade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Lucratividade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Meta-análises da Gallup associam engajamento a resultados de negócio; a associação é estatística, não prova causal exclusiva.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Maior base de meta-análise entre pesquisas de engajamento; comparabilidade entre equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Associação não é causalidade; medir sem agir corrói confiança; resultados agregados não descrevem indivíduos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa organizacional, não teste psicológico individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Harter et al.; Gallup Q12 meta-analysis — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "eNPS",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Probabilidade de recomendar a empresa como lugar para trabalhar (pergunta única).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Termômetro rápido de experiência — nunca diagnóstico completo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Marca empregadora",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sinal agregado de lealdade; útil como tendência ao longo do tempo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Simplicidade extrema e comparabilidade temporal.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Uma pergunta não explica causas; viciado a metas, vira jogo de números.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Reichheld (conceito NPS adaptado) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas de pulso e clima",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Percepções recorrentes sobre clima, carga, liderança e experiência, em ciclos curtos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Monitoramento contínuo de clima e avaliação de intervenções.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Medidas frequentes permitem ligar mudanças de clima a eventos e intervenções.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Base para linha de base e acompanhamento — o coração do método Psiconometria.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fadiga de pesquisa; grupos pequenos comprometem anonimato; sem ação visível, a adesão cai.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisa organizacional; itens psicológicos exigem revisão profissional.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Práticas de People Analytics — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Testes de integridade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Atitudes e admissões relacionadas a comportamento contraproducente (declarados ou baseados em personalidade).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Seleção em funções de risco — com validação local e análise de impacto adverso.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perdas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Incidentes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamento contraproducente",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Meta-análises associam testes de integridade a menor contraprodutividade; validade varia por formato.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Predição útil de comportamentos de risco quando bem validados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Falsos positivos têm custo humano alto; proibido usar como detector de mentiras; exige psicólogo e validação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Verificar cada instrumento no SATEPSI.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ones, Viswesvaran & Schmidt (meta-análise) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliação de riscos psicossociais (ex.: COPSOQ)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Demandas e recursos do trabalho: carga, ritmo, autonomia, conflitos, assédio, segurança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diagnóstico organizacional de riscos psicossociais — com profissionais habilitados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Exposição a demandas sem recursos se associa a adoecimento e saída; no Brasil, conecta-se à NR-1 atualizada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Instrumento público internacionalmente validado; atende a exigências regulatórias crescentes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diagnóstico sem plano de ação aumenta risco jurídico e desconfiança; não é avaliação clínica individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Instrumento de pesquisa organizacional; interpretação por profissionais habilitados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "COPSOQ International Network; NR-1 (Brasil) — verificação: 2025",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Valuation",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Rentabilidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Faturamento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Receita por colaborador",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Eficiência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Otimização de processos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de ciclo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Satisfação e retenção de clientes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custos operacionais",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamentos observáveis de quem conduz pessoas: direção, feedback, desenvolvimento e exemplo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gestores dão direção clara, feedback regular e removem obstáculos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Prioridades ficam explícitas e bloqueios são resolvidos mais rápido",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos retrabalho por desalinhamento; decisões descem com contexto",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de ciclo e qualidade das entregas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custos operacionais e margens",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equipes com gestores desenvolvidos tendem a apresentar maior engajamento, menor rotatividade e entregas mais consistentes (Project Oxygen, Google).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Liderança inconsistente ou controladora amplifica ruído: metas mudam sem aviso, erros são escondidos e talentos saem primeiro.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autonomia real concedida aos gestores",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estabilidade da estratégia",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tamanho e dispersão das equipes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sinais em 1–2 trimestres; efeitos financeiros em 4–8 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Feedback 360°",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas de pulso por equipe",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Turnover e absenteísmo por gestor",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Indicadores de processo por unidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Forte",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Energia e direção do esforço — autônoma (interesse, propósito) ou controlada (pressão, recompensa).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pessoas com motivação autônoma persistem mais em tarefas difíceis",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos necessidade de supervisão; mais iniciativa de melhoria",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sugestões de melhoria e adoção de práticas sobem",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Produtividade e qualidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Receita por colaborador e custos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ambientes que apoiam autonomia, competência e vínculo sustentam motivação intrínseca e desempenho (Self-Determination Theory).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Motivação só por recompensa pode gerar comportamento de meta: o indicador melhora enquanto o resultado real piora.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenho do trabalho",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sistema de incentivos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Justiça percebida",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sinais em semanas; efeitos estáveis em 2–4 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escalas de motivação (SDT)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Indicadores de iniciativa",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Participação em melhorias",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desempenho por processo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Vigor, dedicação e absorção no trabalho — medido em nível de equipe, não como traço individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equipes engajadas dedicam mais atenção e cuidado ao trabalho",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos erros por distração; mais disposição para resolver problemas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Absenteísmo e rotatividade tendem a cair",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Produtividade, qualidade e segurança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Lucratividade e custos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Meta-análises da Gallup (Q12) associam engajamento de equipe a produtividade, lucratividade, qualidade, segurança e menor turnover.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Engajamento medido sem ação vira cinismo; e associação estatística não prova que engajamento sozinho cause os resultados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Carga de trabalho",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade da liderança local",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Recursos disponíveis",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sinais em 1 trimestre; efeitos financeiros em 3–6 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas de engajamento por equipe",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Absenteísmo e turnover",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Indicadores operacionais por unidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autoestima e autoeficácia",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Crença na própria capacidade de executar tarefas — específica por domínio, não autoestima genérica.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pessoas com autoeficácia na tarefa tentam estratégias antes de desistir",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Aprendizagem de ferramentas novas acelera",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo até autonomia em funções novas cai",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Produtividade e tempo de ciclo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custos de treinamento e operação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Autoeficácia específica é um dos preditores mais consistentes de desempenho em treinamento e adaptação a mudanças (Bandura).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiança sem competência real (ou inflada por elogios vazios) gera erros de julgamento e resistência a feedback.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade do treinamento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Experiências de sucesso progressivo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Feedback específico",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Semanas a 2 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escalas de autoeficácia por domínio",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo até proficiência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Resultados de treinamento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inteligência emocional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Perceber, compreender e regular emoções — próprias e alheias — em situações de trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pessoas regulam reações sob pressão e leem sinais dos outros",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Conflitos são endereçados antes de escalar; negociações travam menos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos incidentes interpessoais e retrabalho por mal-entendido",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade de serviço e colaboração",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retenção de clientes e custos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Habilidades emocionais apoiam mediação de conflitos e decisões sob pressão, sobretudo em papéis de liderança e atendimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Medida por autorrelato, vira autoimagem; usada como rótulo (\"pouco emocional\"), vira ferramenta de exclusão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Método de medida (desempenho vs. autorrelato)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Demanda emocional do cargo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Apoio organizacional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "1–3 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliações baseadas em desempenho (ex.: MSCEIT)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Incidentes de conflito",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Indicadores de atendimento",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade dos vínculos de trabalho: respeito, reciprocidade e capacidade de discordar bem.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Relações de qualidade reduzem custos de coordenação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Informação circula sem mediação formal; favores são retribuídos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos gargalos entre áreas e handoffs mais limpos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de ciclo e eficiência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capital social interno facilita coordenação e reduz custos de transação entre áreas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Coesão excessiva vira panelinha: proteção de pares, ocultação de erros e exclusão de quem chega.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Interdependência real das tarefas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Rotatividade da equipe",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenho de incentivos entre áreas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "1–4 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Redes de colaboração (quem procura quem)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas de confiança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempos de handoff entre áreas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Soft skills",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comunicação, colaboração, negociação e autorregulação aplicadas ao trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comunicação clara reduz ambiguidade de requisitos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos retrabalho por especificação errada",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Defeitos e correções caem",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade e tempo de ciclo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custos e margens",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas da OCDE conectam habilidades socioemocionais a empregabilidade e produtividade, com variação por contexto.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "\"Soft skills\" como rótulo vago vira critério de simpatia disfarçado — e penaliza perfis diversos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Definição comportamental de cada habilidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Contexto do cargo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade da avaliação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliações comportamentais ancoradas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retrabalho por causa raiz",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Feedback de clientes internos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade e oportunidade de aprender: treinamento, prática deliberada e transferência para o trabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Aprendizado aplicado atualiza práticas de trabalho",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Processos incorporam melhorias e novas tecnologias",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Curva de proficiência encurta em mudanças",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Produtividade e inovação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Organizações que aprendem convertem experiência em processo — e processo em resultado repetível.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Treinamento sem transferência vira custo: horas consumidas, nenhuma prática alterada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo protegido para praticar",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Apoio do gestor à aplicação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade do desenho instrucional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "1–4 trimestres, conforme complexidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliações de aprendizagem",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Adoção de práticas no processo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Expectativa de que colegas, líderes e a organização agirão de forma competente e íntegra.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Com confiança, pessoas delegam, compartilham informação e aceitam decisões",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos controles redundantes e burocracia defensiva",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Velocidade de decisão e execução sobem",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Eficiência e tempo de ciclo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiança organizacional reduz custos de controle e acelera coordenação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiança quebrada (promessas não cumpridas, vigilância) é assimétrica: demora a construir, cai rápido.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Histórico de consistência da liderança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Transparência de decisões",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construção lenta (trimestres a anos); perda rápida.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escalas de confiança organizacional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Camadas de aprovação por processo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de decisão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Segurança psicológica",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Percepção compartilhada de que é seguro admitir erros, pedir ajuda e discordar.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pessoas relatam erros e dúvidas mais cedo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Problemas são identificados antes de virar falhas maiores",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Redução de retrabalho e tempo de correção",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade e eficiência",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custos, margens e retenção de clientes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construto central do Project Aristotle (Google) e da pesquisa em segurança do paciente; associado a aprendizagem de equipe (Edmondson).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mal compreendida como ausência de cobrança: conflitos importantes não são enfrentados, responsabilização cai, prazos e qualidade pioram.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamento do líder ao receber más notícias",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Padrões de desempenho claros",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consequências reais para retaliação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sinais em 1–2 trimestres; efeitos em 2–6 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Escala de Edmondson (7 itens)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Relatos de erro e near-miss",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retrabalho e tempo de correção",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Disposição para contribuir com objetivos coletivos mesmo sem retorno imediato individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pessoas compartilham recursos e cobrem lacunas umas das outras",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Picos de demanda são absorvidos sem contratação emergencial",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos filas e esperas entre etapas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de ciclo e produtividade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comportamento de cidadania organizacional sustenta processos que nenhum organograma prevê.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cooperação explorada vira sobrecarga invisível dos mesmos — e, depois, burnout e saída.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Reconhecimento de contribuições coletivas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equidade de carga",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Incentivos individuais vs. coletivos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas de cidadania organizacional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Distribuição de carga",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempos de espera entre etapas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Trabalho coletivo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Coordenação efetiva de esforços interdependentes: papéis, rituais e artefatos compartilhados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Papéis e interfaces claros reduzem duplicidade e omissão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Handoffs acontecem com contexto completo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Erros de transição entre etapas caem",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custos e satisfação de clientes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equipes com clareza de papéis e rituais de coordenação entregam com mais consistência (dinâmicas do Project Aristotle).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Reunião e ritual sem função viram teatro de colaboração: muito alinhamento, pouca execução.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estabilidade da composição",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ferramentas compartilhadas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mapa de papéis e interfaces",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Defeitos por transição de etapa",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Carga de reuniões vs. entrega",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diversidade de conhecimentos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Variedade de repertórios, formações e perspectivas disponíveis para resolver problemas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Repertórios diversos geram mais hipóteses para o mesmo problema",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Soluções combinam perspectivas e evitam pontos cegos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mais inovação útil e menos decisões por consenso prematuro",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Inovação e qualidade de decisão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Faturamento (novos produtos) e margens",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diversidade cognitiva bem gerida amplia o espaço de soluções — especialmente em problemas novos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sem segurança psicológica e integração, diversidade vira conflito paralisante ou tokenismo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Liderança integradora",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tarefa exigir múltiplas perspectivas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "2–6 trimestres.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Composição de equipes",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Origem de ideias implementadas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Taxa de consenso prematuro em decisões",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Circulação precisa, oportuna e compreensível de informação entre pessoas e áreas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Informação chega completa a quem executa",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos interpretações divergentes do mesmo pedido",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retrabalho por falha de entendimento cai",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comunicação de qualidade é pré-condição de quase todos os demais mecanismos desta matriz.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Excesso de canais e mensagens vira ruído: o essencial se perde no volume.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Arquitetura de canais",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Assincronia respeitada",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Clareza de quem decide o quê",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Semanas a 1 trimestre.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Auditoria de canais",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Retrabalho por causa \"comunicação\"",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas de clareza de informação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Adaptabilidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade individual e coletiva de ajustar comportamento quando o contexto muda.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pessoas ajustam práticas diante de mudanças de demanda e tecnologia",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Transições de processo acontecem sem parada longa",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de resposta a mudanças cai",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Continuidade operacional e inovação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Resiliência de receita e custos",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Em ambientes voláteis, adaptabilidade protege a operação de obsolescência de práticas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Adaptação permanente sem estabilidade vira fadiga de mudança: tudo é prioridade, nada se consolida.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ritmo de mudanças simultâneas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Aprendizado disponível",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Segurança no emprego percebida",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de adoção de mudanças",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Indicadores durante transições",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas de fadiga de mudança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Emergente",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tomada de decisão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade, velocidade e distribuição das decisões: quem decide, com que informação e com que revisão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Decisões são tomadas no nível certo, com dados e prazo",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Menos escalonamentos desnecessários e menos retrabalho de decisão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Ciclos de aprovação encurtam",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Custos e capacidade de resposta ao mercado",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Decisões distribuídas com critérios claros aceleram execução sem sacrificar qualidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Centralização insegura trava a operação; descentralização sem critério gera decisões contraditórias.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Clareza de alçadas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Qualidade da informação disponível",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cultura de revisão de decisões",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Tempo de aprovação por tipo de decisão",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Taxa de decisões revertidas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mapa de alçadas",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Project Aristotle",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Google",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Caso empresarial",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Investigação interna sobre o que distingue equipes eficazes, analisando mais de 180 equipes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Entender por que algumas equipes do Google prosperavam e outras não, apesar de composições semelhantes em talento individual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "A eficácia de uma equipe dependeria mais de como seus membros interagem do que de quem são.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dados de mais de 180 equipes, pesquisas internas, entrevistas e indicadores de desempenho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise quantitativa e qualitativa de dinâmicas de equipe, revisando décadas de pesquisa organizacional.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Identificação de cinco dinâmicas: segurança psicológica, confiabilidade, estrutura e clareza, significado do trabalho e impacto percebido.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Segurança psicológica emergiu como a dinâmica mais importante — equipes em que era seguro assumir riscos interpessoais tendiam a se sair melhor.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Os resultados se referem ao contexto estudado (empresa de tecnologia, cultura específica) e não são uma fórmula universal; associações observacionais não provam causalidade isolada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dinâmicas de equipe são mensuráveis e conversáveis — e \"quem está na equipe\" importa menos que \"como a equipe trabalha junta\".",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Google re:Work — Guide: Understand team effectiveness",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Project Oxygen",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Uso de dados de pessoas para identificar comportamentos de bons gestores e orientar desenvolvimento gerencial.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Testar a hipótese interna de que \"gestores não importam\" — e, se importassem, descobrir o que os melhores faziam de diferente.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gestores com melhores avaliações teriam equipes com melhor desempenho e retenção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Avaliações de desempenho, pesquisas de equipe (upward feedback) e indicações a prêmios internos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análise estatística correlacionando qualidade gerencial a resultados de equipe; análise qualitativa de entrevistas para derivar comportamentos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Oito comportamentos de gestão transformados em treinamento, feedback e revisão de práticas gerenciais.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equipes de gestores bem avaliados apresentavam menor rotatividade e maior satisfação; a empresa reportou melhoria na qualidade gerencial após as intervenções.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Resultados reportados pela própria empresa; contexto de engenharia de software; comportamentos eficazes variam por cultura e função.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "É possível transformar \"boa gestão\" em comportamentos observáveis, ensináveis e mensuráveis — em vez de tratá-la como dom.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Google re:Work — Guide: Identify what makes a great manager",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gallup",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Meta-análise",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "2020 (10ª edição)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Síntese de centenas de estudos sobre a relação entre engajamento de equipe e resultados de negócio.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Quantificar a associação entre engajamento (medido pelo Q12) e indicadores empresariais em múltiplas organizações.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Unidades de negócio com maior engajamento apresentariam melhores resultados operacionais e financeiros.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Centenas de estudos em dezenas de países e setores, cobrindo milhões de respondentes (edições sucessivas da meta-análise).",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Meta-análise de correlações entre engajamento por unidade de negócio e indicadores como produtividade, lucratividade, turnover, absenteísmo, segurança e qualidade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não se aplica — é uma síntese de evidência, não uma intervenção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Associações consistentes entre engajamento e todos os indicadores estudados, com diferenças relevantes entre unidades no topo e na base da distribuição.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Associação estatística não significa que todos os efeitos sejam exclusivamente causados pelo engajamento; a causalidade provavelmente flui nos dois sentidos; estudos patrocinados exigem leitura atenta.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Engajamento de equipe é um indicador antecedente útil — mas deve ser lido como parte de um sistema, não como alavanca mágica.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Gallup — Q12 Meta-Analysis",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Habilidades, gestão e produtividade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "OECD",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Estudo observacional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Pesquisas internacionais conectando capital humano, competências e práticas gerenciais à produtividade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Explicar diferenças persistentes de produtividade entre empresas e países além de capital e tecnologia.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Habilidades da força de trabalho e qualidade das práticas de gestão explicariam parte relevante das diferenças de produtividade.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "PIAAC (pesquisa de habilidades de adultos), dados de empregadores e estudos de práticas de gestão em dezenas de países.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Análises estatísticas multinível e comparativas internacionais, com controles por setor e tamanho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não se aplica — programa de pesquisa contínuo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Associações robustas entre nível de habilidades, qualidade gerencial e produtividade, com variações importantes entre países e setores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Desenhos majoritariamente observacionais; medidas de habilidade são aproximações; conclusões globais não se transportam automaticamente para o Brasil sem ressalvas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capital humano e práticas de gestão são mensuráveis em escala — e explicam parte real, embora não total, das diferenças de desempenho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "OECD — Skills Studies / PIAAC",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Cultura de growth mindset",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Microsoft",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Prática institucional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Transformação cultural declarada, centrada em \"learn-it-all\" em vez de \"know-it-all\".",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Reverter uma cultura percebida como internamente competitiva e avessa a risco, que dificultava colaboração e inovação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Adotar uma mentalidade de crescimento (growth mindset) como princípio cultural ampliaria aprendizagem, colaboração e inovação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Comunicações internas, mudanças em rituais de gestão, pesquisas de cultura e relatos públicos da liderança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mudança de símbolos, incentivos e práticas de liderança ao longo de anos — sem desenho experimental público.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Reformulação de avaliações de desempenho, rituais de liderança e linguagem corporativa em torno de aprendizagem.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "A companhia reporta melhora de colaboração e renovação estratégica; o período coincidiu com forte valorização de mercado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não há demonstração causal pública de que a cultura, isoladamente, tenha produzido os resultados financeiros — estratégia, mercado e capital são fatores decisivos; trata-se de prática institucional declarada, não de experimento.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mudança cultural é uma hipótese de longo prazo: deve ser acompanhada por indicadores de comportamento, não celebrada por resultados distais que têm muitas causas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Microsoft — cultura e growth mindset (comunicação institucional)",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Percentual de tempo de trabalho perdido por ausências não planejadas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Uma equipe com 5% de absenteísmo perde, em média, 1 dia por mês a cada 20 trabalhados.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Causalidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Relação em que a mudança em um fator produz mudança em outro — exige desenho de pesquisa adequado para ser afirmada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Mostrar que um treinamento causou melhora exige comparar com um grupo semelhante que não passou por ele.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capital humano",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Conjunto de conhecimentos, habilidades e capacidades das pessoas de uma organização.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "A experiência acumulada dos operadores de uma planta é capital humano que nenhum manual substitui.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capital organizacional",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Conhecimento incorporado em processos, cultura, rotinas e sistemas — permanece quando pessoas saem.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um playbook de vendas testado é capital organizacional; o talento do vendedor, não.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Confiabilidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Consistência de uma medida: quanto do resultado é sinal estável e quanto é erro.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Se a mesma pesquisa aplicada duas vezes dá resultados muito diferentes sem motivo, sua confiabilidade é baixa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Construto",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Conceito teórico não diretamente observável, definido para ser medido por indicadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Engajamento é um construto: medimos vigor, dedicação e absorção como seus indicadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Correlação",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Associação estatística entre duas variáveis — não implica que uma cause a outra.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Equipes engajadas vendem mais; mas vender mais também engaja. Correlação não decide a direção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dados em painel",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Dados das mesmas unidades (pessoas, equipes, filiais) acompanhadas em vários momentos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Medir o clima das mesmas 40 equipes a cada trimestre por dois anos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Diferença-em-diferenças",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Método quase-experimental que compara a mudança de um grupo tratado com a de um grupo de comparação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O retrabalho caiu 8% nas plantas com o programa e 1% nas demais: o efeito estimado é de 7 pontos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Efeito incremental",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O quanto um resultado melhora além do que aconteceria sem a intervenção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não é \"a equipe bateu a meta após o treinamento\", e sim \"bateu 6 pontos acima do esperado sem ele\".",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Endogeneidade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Quando a variável explicativa se confunde com o resultado — por causalidade reversa ou causas ocultas.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Contratar consultoria e melhorar podem ter uma causa comum: a empresa já estava se organizando.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Intervalo de confiança",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Faixa que expressa a incerteza de uma estimativa.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "\"Ganho entre 1% e 7%\" é mais honesto que \"ganho de 4%\" — e muda a decisão.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Invariância",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Propriedade de um instrumento medir o mesmo construto do mesmo jeito em grupos diferentes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Uma escala de liderança deve significar o mesmo para equipes de São Paulo e de Manaus.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "KPI antecedente",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Indicador que se move antes do resultado final e sinaliza sua direção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Relatos precoces de erro antecedem a queda do retrabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "KPI resultante",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Indicador final de resultado, geralmente financeiro ou de mercado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Margem, receita por colaborador e retenção de clientes são KPIs resultantes.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Linha de base",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Medição do estado anterior a qualquer intervenção — referência para avaliar mudança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Sem saber que o turnover era 22% antes do programa, \"caiu para 18%\" não significa nada.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Percepção compartilhada de que é seguro assumir riscos interpessoais na equipe.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Admitir \"não sei\" ou \"errei\" em reunião sem medo de punição.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Teste A/B",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Experimento que sorteia unidades entre duas versões para isolar o efeito de uma mudança.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Metade das equipes recebe o novo formato de reunião; a outra metade mantém o atual.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validade",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Grau em que as evidências apoiam a interpretação de uma medida para um uso específico.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Um teste válido para desenvolvimento pode não ter validade demonstrada para seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Validade preditiva",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Capacidade de uma medida de antecipar um resultado futuro relevante.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Entrevistas estruturadas têm validade preditiva alta para desempenho no cargo.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Variável latente",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Variável não observada diretamente, inferida a partir de indicadores.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Não vemos \"conscienciosidade\"; vemos pontualidade, organização e persistência.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Variável mediadora",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O elo do mecanismo: explica por que um fator afeta um resultado.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Segurança psicológica → relato precoce de erros (mediador) → menos retrabalho.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Variável moderadora",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Fator que muda a força ou a direção de uma relação.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O efeito do treinamento é forte quando o gestor apoia a aplicação — e quase nulo sem esse apoio.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Viés",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Distorção sistemática em dados, medidas ou julgamentos.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "Se só os mais satisfeitos respondem à pesquisa de clima, o resultado tem viés de seleção.",
+  "where": "data:data.js"
+ },
+ {
+  "pt": "O resultado",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "KPI: o indicador que a empresa quer mover",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Retrabalho, turnover, NPS, vendas por loja. A Psiconometria parte sempre de um indicador de negócio concreto, nunca de um teste procurando aplicação.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Exemplo: taxa de retrabalho de cada equipe, por trimestre.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Econometria",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "α: o ponto de partida",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O nível do indicador que existiria sem o fator estudado. Serve de referência para saber se algo mudou.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Exemplo: o retrabalho médio esperado de uma equipe qualquer da rede.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "β: quanto o fator humano pesa, e com que certeza",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O efeito estimado do fator sobre o indicador. A econometria entrega β com intervalo de confiança e diz se é associação ou efeito causal. Um β sem intervalo é opinião com número.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Exemplo: cada ponto a mais no índice de segurança psicológica associa-se a 1,5 ponto percentual a menos de retrabalho, com intervalo entre 0,2 e 2,9.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Fator: a característica humana, medida de verdade",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Liderança, segurança psicológica, carga de trabalho, clareza de papel. A psicometria garante que a medida tem definição, confiabilidade e validade para esse uso. Se o fator for mal medido, nenhum modelo salva a conclusão.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Exemplo: escala curta e validada, aplicada por equipe e analisada só como média do grupo.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "γ · Contexto: o que também explica o resultado",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Volume, tempo de casa, região, ferramenta, sazonalidade. Controlar o contexto evita atribuir às pessoas o que é efeito do processo ou do mercado.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Exemplo: equipes mais experientes podem ter, ao mesmo tempo, mais segurança e menos erros.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Psicometria e econometria",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "ε: o que não sabemos",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Erro de medida e fatores não observados. Declarar o tamanho do erro é o que separa uma análise honesta de uma narrativa convincente.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Exemplo: no caso ilustrativo, o fator explica cerca de 20% da variação do retrabalho; os outros 80% estão em outro lugar.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Investimos em treinamento, benefícios e clima, mas não sabemos o que voltou.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O orçamento de pessoas é aprovado por convicção e cortado na primeira crise, porque ninguém consegue mostrar efeito.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Cada iniciativa vira uma hipótese com linha de base, grupo de comparação e indicador acompanhado. A resposta pode ser \"não funcionou\", e isso também economiza dinheiro.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Escolher uma iniciativa em curso e registrar a linha de base antes do próximo ciclo.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Estimar o impacto no Laboratório",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Perdemos gente boa e só descobrimos o motivo na entrevista de desligamento.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O turnover é medido depois que acontece, e as causas ficam registradas como \"proposta melhor\".",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Acompanhar antecedentes por equipe (liderança direta, carga, clareza de papel, segurança psicológica) e relacioná-los às saídas dos meses seguintes.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Cruzar o histórico de saídas por gestor com uma medida curta e validada de liderança.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Ver os mecanismos na Matriz Pessoas × KPIs",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "A pesquisa de clima sobe dois pontos, cai três, e ninguém sabe se algo mudou.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O índice é tratado como placar, e variações pequenas geram planos de ação.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Toda medida tem erro. A psicometria diz quanto da variação é ruído; a econometria diz se a diferença entre equipes ou períodos é real.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Calcular a confiabilidade dos itens atuais e o intervalo de confiança do índice por área.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Entender confiabilidade e erro de medida",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Usamos um teste de perfil para contratar e promover.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Decisões de alto impacto apoiadas em tipologias populares, sem evidência de validade para esse uso.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Cada instrumento é avaliado pelo que mede, para que uso tem evidência e quais riscos traz. Perfis apoiam conversas de desenvolvimento; não decidem sozinhos sobre pessoas.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Listar os instrumentos em uso e conferir no catálogo o nível de evidência de cada um.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Consultar o catálogo de avaliações",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O retrabalho aumentou e o processo já foi revisado três vezes.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Mudanças de procedimento não resolvem, e os erros continuam aparecendo tarde.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Depois de descartar causas de processo, volume e ferramenta, testar hipóteses humanas: fadiga, clareza de papel, disposição para relatar erros cedo.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Medir, por equipe, o tempo entre um erro acontecer e ser relatado.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Ver o exemplo do retrabalho no Método",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Unidades com o mesmo processo têm resultados muito diferentes.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Lojas, filiais ou franquias seguem o mesmo manual e mostram diferenças grandes de vendas, satisfação ou perdas.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Modelos multinível separam o que é efeito do mercado local, do gestor da unidade e da equipe, e mostram onde a variação humana pesa de fato.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Reunir os indicadores por unidade junto com dados de contexto: região, porte, tempo de casa do gestor.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Entender dados em painel e análise longitudinal",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Temos dados de pessoas, mas medo de usá-los.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "As informações estão espalhadas entre RH, operação e finanças, e há receio legítimo com a LGPD e com expor indivíduos.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Finalidade declarada, coleta mínima, análise agregada por grupo com tamanho mínimo e nenhum resultado individual em painéis.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Mapear quais dados já existem e qual pergunta de negócio justificaria cruzá-los.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Ler os princípios de ética e privacidade",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Características individuais",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Traços, capacidades, valores e experiências que cada pessoa traz.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Estados psicológicos",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Motivação, confiança, segurança psicológica e fadiga — variáveis que flutuam com o contexto.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Comportamentos observáveis",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O que de fato acontece: relatar erros, dar feedback, cooperar, aprender, decidir.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Dinâmica coletiva",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Como a equipe funciona junta: coordenação, conflito, coesão e aprendizagem.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Decisões",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Escolhas de alocação, prioridade e risco — tomadas por pessoas, sob incerteza.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O trabalho organizado: fluxos, handoffs, controles e rituais.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Experiência do cliente",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "O que o cliente percebe: qualidade, confiança e continuidade.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Output por unidade de recurso — gente, tempo, capital.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Resultados financeiros",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Receita, margens, custos — consequência de muitas causas.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Valor",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Resultado distal: valuation e rentabilidade dependem também de estratégia, mercado e capital.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Diagnóstico organizacional",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Lê sistemas: processos, clima agregado, dinâmicas de equipe. Não avalia indivíduos clinicamente.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Avaliação psicológica",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Prática privativa de psicólogos, regulamentada no Brasil, com instrumentos verificados no SATEPSI. A Psiconometria não a substitui.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Teste comportamental",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Instrumento de autodescrição ou preferência. Pode apoiar conversas de desenvolvimento; não deve decidir contratação, promoção ou demissão isoladamente.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Duas variáveis se movem juntas. Útil para gerar hipóteses e prever — insuficiente para afirmar causa.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Um fator produz mudança em outro. Exige experimento, quase-experimento ou desenho de identificação — sempre com contexto e limites declarados.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Definir a pergunta de negócio",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Tudo começa de uma pergunta empresarial concreta — nunca de um teste procurando aplicação.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Mapear o processo e os KPIs",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Entender o fluxo de trabalho, seus indicadores atuais e onde a pergunta vive no processo.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Formular hipóteses humanas e organizacionais",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Transformar intuições em hipóteses falsificáveis sobre comportamentos, relações e condições de trabalho.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Selecionar medidas válidas e proporcionais",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Escolher instrumentos com evidência para aquele propósito, população e idioma — nem mais, nem menos invasivos que o necessário.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Estabelecer linha de base",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Medir antes de intervir. Sem linha de base, toda \"melhora\" é narrativa.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Testar intervenção e acompanhar resultados",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Pilotos com grupo de comparação quando possível; indicadores antecedentes e resultantes monitorados.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Aprender, recalibrar e documentar limites",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Registrar o que funcionou, o que não funcionou e até onde a conclusão pode ir.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "definição do processo",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "mudança de volume",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "qualidade dos insumos",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "comunicação",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "composição da equipe",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "liderança",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "segurança psicológica",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "qualidade da mensuração",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Princípios metodológicos",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Toda afirmação factual indica fonte, ano e tipo de evidência.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Correlação e causalidade são sempre separadas.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Estimativas vêm com intervalos e premissas visíveis.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Nenhum instrumento decide sozinho sobre pessoas.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Contexto, população e propósito limitam toda conclusão.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Hipóteses são registradas antes dos resultados.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Política de fontes",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Prioridade a fontes acadêmicas, institucionais e primárias.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Resumimos e contextualizamos — nunca copiamos textos.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Distinguimos dado global de dado brasileiro.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Sinalizamos quando a evidência é observacional.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Não transportamos conclusões entre contextos sem ressalva.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Ética, privacidade e uso responsável",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Psiconometria não substitui avaliação psicológica profissional.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Testes de uso privativo exigem profissionais habilitados; o SATEPSI deve ser consultado de forma atualizada.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Perfis não são diagnósticos.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Dados comportamentais exigem finalidade legítima, minimização, segurança e governança (LGPD).",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Decisões automatizadas que afetam pessoas precisam de transparência e revisão.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Resultados individuais nunca aparecem em dashboards coletivos; usamos anonimização e limites mínimos de grupo.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Este site não coleta dados psicológicos antes de consentimento, governança e segurança adequados.",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Diagnóstico organizacional (não clínico)",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Conteúdo e pesquisa",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Consultoria",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Colaboração acadêmica",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Apenas receber novos estudos",
+  "where": "data:content.js"
+ },
+ {
+  "pt": "Disciplinas",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Matriz",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Laboratório",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Casos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Catálogo",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Hipótese",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Nível de evidência",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Pular para o conteúdo",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Pessoas, dados e resultados empresariais",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Menu",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Navegação principal",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Fechar",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Idioma",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Uma abordagem integrada que combina a mensuração rigorosa de características humanas com métodos quantitativos de análise econômica — para compreender como pessoas, comportamentos, relações e decisões influenciam processos e resultados empresariais.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Receba novos estudos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Seu e-mail",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "seu@email.com",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Assinar",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Navegação",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Compromisso metodológico",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Correlação não comprova causalidade.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Nenhum instrumento deve ser usado isoladamente em decisões de alto impacto.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Testes psicológicos de uso privativo exigem profissionais habilitados.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Fontes de referência: APA, AERA/NCME, CFP/SATEPSI, OECD, World Bank, Google re:Work, Gallup, Our World in Data.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Conceito autoral em desenvolvimento.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Informe um e-mail válido para assinar.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Enviando…",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Inscrição registrada. Obrigado.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Não foi possível registrar. Tente novamente.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Nome *",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Seu nome",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "E-mail *",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "voce@empresa.com",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Empresa / instituição",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "(opcional)",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Opcional",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Interesse *",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Selecione",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Mensagem",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Conte em duas ou três frases o contexto: setor, tamanho da equipe e a pergunta de negócio que você gostaria de investigar.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Enviar mensagem",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Enviamos apenas o necessário para responder ao seu contato. Não coletamos dados psicológicos neste site. Consulte os princípios de ética e privacidade nesta página.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Preencha nome, e-mail e interesse para enviar.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "O e-mail informado não parece válido. Confira e tente de novo.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Mensagem registrada",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Obrigado pelo interesse. Retornaremos pelo e-mail informado. Enquanto isso, explore a <a class=\"link\" href=\"matriz.html\">Matriz Pessoas × KPIs</a> ou o <a class=\"link\" href=\"laboratorio.html\">Laboratório de impacto</a>.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Não foi possível enviar agora. Tente novamente em instantes.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Como aparece",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Como a Psiconometria aborda",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Primeiro passo",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Escolha um fator humano",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Ver os 16 fatores",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Evidência",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Efeito no processo",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Indicador antecedente",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "KPI operacional",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "KPI financeiro",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Retrabalho por índice de segurança psicológica, 24 equipes",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Gráfico de dispersão com dados fictícios. Equipes com índice mais alto tendem a ter menos retrabalho, mas a dispersão é grande.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Índice de segurança psicológica da equipe (escala 1 a 5)",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Retrabalho (% das entregas)",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "tendência estimada",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Camada humana",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Conexões plausíveis destacadas",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Influência indireta, mediada por processos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Camada empresarial",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Selecione um elemento da camada humana para ver sua descrição e suas conexões plausíveis.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "A ciência da medida psicológica: como transformar características humanas em dados confiáveis, válidos e justos.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Métodos quantitativos aplicados a dados econômicos: como estimar relações, quantificar incerteza e aproximar causalidade.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Convergências",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Onde as duas disciplinas se encontram — o terreno da Psiconometria.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Definição simples",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Exemplo organizacional",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Método de análise",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Decisão que pode apoiar",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Limitações",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Finalidade",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Tipo de construto",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Aplicação",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Restrição",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Restrito a psicólogos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Não restrito",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Licença",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Buscar",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Buscar método ou construto…",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Todos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Mede",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Uso",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": ", restrito a psicólogos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Mecanismo até o KPI.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Potencial.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Riscos e limites.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Fonte",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "{n} de {total} métodos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Nenhum método corresponde aos filtros. Amplie os critérios ou limpe a busca.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Comportamento observável",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Fatores humanos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Cadeia de mecanismo.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Cada elo é uma hipótese a medir; o efeito enfraquece a cada passo.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Impacto positivo plausível",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Impacto negativo plausível",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Variáveis moderadoras",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Prazo provável",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Dados necessários",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "KPIs potencialmente relacionados",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "(distal)",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Atenção.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Para este fator, a relação com resultados é majoritariamente hipótese ou correlação. Trate como pergunta a testar, não como alavanca garantida.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Empregados",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Faturamento anual",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Salário médio mensal",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Turnover anual",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Investimento previsto",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Premissas da sua empresa",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Premissas fixas do modelo: reposição ≈ 60% do salário anual por saída; 35% do valor do retrabalho vira custo; reduções relativas de 5%, 10% e 20% nos três custos, por cenário.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Conservador",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Central",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Otimista",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Custo anual estimado hoje",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Economia anual possível, por cenário (faixas = incerteza)",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "O quadrado marca a estimativa; a linha, a faixa de incerteza.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "{min} a {max}; retorno de {roi}× o investimento",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Sensibilidade",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "A variável que mais move o resultado é <strong>{v}</strong>. Comece medindo-a bem antes de investir.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Prazo e acompanhamento",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Sinais em 1–2 trimestres; efeitos financeiros em 3–6. Acompanhe indicadores antecedentes (relatos de erro, adesão, pulso) além dos financeiros.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Como testar de verdade",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Piloto em algumas equipes, com linha de base registrada antes.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Grupo de comparação semelhante que não recebe a intervenção.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Séries históricas para separar tendência de efeito.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Diferenças-em-diferenças para estimar o efeito incremental.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Estimativas ilustrativas, não fatos.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Os multiplicadores são premissas didáticas; a sua organização precisa estimá-los com os próprios dados.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Buscar termo",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Buscar termo…",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "{n} de {total} termos",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Nenhum termo encontrado para \"{q}\". Tente uma palavra mais curta.",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Problema",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Dados utilizados",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Intervenção",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Resultados informados",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "Fonte original",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "(abre em nova aba)",
+  "where": "ui:app.js"
+ },
+ {
+  "pt": "O que pode ser aprendido",
+  "where": "ui:app.js"
+ }
+]

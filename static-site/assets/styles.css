@@ -420,3 +420,16 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .stat-line div { display: flex; flex-direction: column; }
 .stat-line span { font-size: 0.8125rem; color: var(--ink-3); }
 .stat-line b { font-weight: 500; font-variant-numeric: tabular-nums; }
+
+/* Seletor de idioma (bandeiras) */
+.lang { position: relative; margin-left: auto; }
+@media (min-width: 1101px) { .lang { order: 3; margin-left: 0; } .site-header .nav { order: 2; } }
+.lang-btn { display: inline-flex; align-items: center; gap: 0.5rem; background: none; border: 1px solid var(--rule); padding: 0.375rem 0.625rem; font-size: 0.8125rem; font-weight: 500; cursor: pointer; min-height: 2.25rem; }
+.lang-btn:hover, .lang-btn[aria-expanded="true"] { border-color: var(--ink); }
+.flag { display: block; width: 20px; height: 14px; box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.18); flex: none; }
+.lang-list { position: absolute; right: 0; top: calc(100% + 0.375rem); list-style: none; background: var(--paper); border: 1px solid var(--ink); min-width: 11rem; z-index: 30; padding: 0.25rem 0; }
+.lang-list[hidden] { display: none; }
+.lang-list a { display: flex; align-items: center; gap: 0.75rem; padding: 0.625rem 0.875rem; text-decoration: none; font-size: 0.9375rem; }
+.lang-list a:hover { background: var(--panel); color: var(--ink); }
+.lang-list a[aria-current="true"] { font-weight: 700; box-shadow: inset 3px 0 0 var(--accent); }
+@media (max-width: 1100px) { .site-header .wrap { gap: 0.75rem; } }
