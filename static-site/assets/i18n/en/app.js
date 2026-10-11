@@ -16,11 +16,12 @@
   // Idiomas do site: português na raiz, os demais em pastas próprias. Nomes no próprio idioma.
   var LANGS = [
     { code: 'pt', name: 'Português', dir: '/', flag: '<rect width="20" height="14" fill="#009c3b"/><path d="M10 1.7 18.3 7 10 12.3 1.7 7z" fill="#ffdf00"/><circle cx="10" cy="7" r="3" fill="#002776"/>' },
-    { code: 'en', name: 'English', dir: '/en/', flag: '<rect width="20" height="14" fill="#fff"/><rect x="8.5" width="3" height="14" fill="#ce1124"/><rect y="5.5" width="20" height="3" fill="#ce1124"/>' },
+    { code: 'en', name: 'English', dir: '/en/', flag: '<svg viewBox="0 0 60 30" width="20" height="14" preserveAspectRatio="none"><clipPath id="uk-s{id}"><path d="M0,0v30h60V0z"/></clipPath><clipPath id="uk-t{id}"><path d="M30,15h30v15zv15H0zH0V0zV0h30z"/></clipPath><g clip-path="url(#uk-s{id})"><path d="M0,0v30h60V0z" fill="#012169"/><path d="M0,0 60,30M60,0 0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 60,30M60,0 0,30" clip-path="url(#uk-t{id})" stroke="#c8102e" stroke-width="4"/><path d="M30,0v30M0,15h60" stroke="#fff" stroke-width="10"/><path d="M30,0v30M0,15h60" stroke="#c8102e" stroke-width="6"/></g></svg>' },
     { code: 'de', name: 'Deutsch', dir: '/de/', flag: '<rect width="20" height="4.67" fill="#000"/><rect y="4.67" width="20" height="4.67" fill="#dd0000"/><rect y="9.33" width="20" height="4.67" fill="#ffce00"/>' },
     { code: 'es', name: 'Español', dir: '/es/', flag: '<rect width="20" height="14" fill="#aa151b"/><rect y="3.5" width="20" height="7" fill="#f1bf00"/>' }
   ];
-  function flagSVG(l) { return '<svg class="flag" viewBox="0 0 20 14" width="20" height="14" aria-hidden="true" focusable="false">' + l.flag + '</svg>'; }
+  var flagN = 0; // ids únicos para os recortes (clipPath) quando a mesma bandeira aparece mais de uma vez
+  function flagSVG(l) { flagN++; return '<svg class="flag" viewBox="0 0 20 14" width="20" height="14" aria-hidden="true" focusable="false">' + l.flag.replace(/\{id\}/g, flagN) + '</svg>'; }
 
   var NAV = [
     { to: 'o-que-e.html', label: T('The concept') },
