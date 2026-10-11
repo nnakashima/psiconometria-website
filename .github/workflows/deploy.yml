@@ -1,0 +1,43 @@
+# Publica o site: a cada push no main, copia o conteúdo de static-site/ para a raiz
+# da branch "deploy". A Hostinger (hPanel → Avançado → Git) implanta a partir dessa branch.
+name: Atualizar branch de deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'static-site/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Montar a pasta publicada
+        run: |
+          mkdir -p "$RUNNER_TEMP/site"
+          rsync -a --delete \
+            --exclude README.md --exclude .gitignore --exclude 'api/config.php' \
+            static-site/ "$RUNNER_TEMP/site/"
+          test -f "$RUNNER_TEMP/site/index.html"
+          test -f "$RUNNER_TEMP/site/en/index.html"
+
+      - name: Publicar na branch deploy
+        run: |
+          cd "$RUNNER_TEMP/site"
+          git init -q -b deploy
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Deploy de ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" deploy
