@@ -3,3 +3,5 @@ node_modules/
 *.log
 .vite/
 dist/
+api/config.php
+psiconometria-config.php
