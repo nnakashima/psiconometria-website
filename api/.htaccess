@@ -1,0 +1,5 @@
+# Bloqueia acesso direto às funções internas e à configuração (com a chave do Resend).
+<FilesMatch "^(_lib|config|config\.sample)\.php$">
+  Require all denied
+</FilesMatch>
+Options -Indexes
