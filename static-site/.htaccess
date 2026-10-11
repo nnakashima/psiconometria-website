@@ -1,5 +1,10 @@
 # Psiconometria — configuração do servidor (Hostinger / Apache / LiteSpeed)
 Options -Indexes
+
+# Registro interno do deploy automático (GitHub Action): não servir pela web.
+<Files ".ftp-deploy-sync-state.json">
+  Require all denied
+</Files>
 DirectoryIndex index.html
 
 <IfModule mod_headers.c>

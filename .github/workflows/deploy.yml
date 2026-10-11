@@ -1,6 +1,11 @@
-# Publica o site: a cada push no main, copia o conteúdo de static-site/ para a raiz
-# da branch "deploy". A Hostinger (hPanel → Avançado → Git) implanta a partir dessa branch.
-name: Atualizar branch de deploy
+# Publica o site na Hostinger a cada push no main que mude static-site/.
+# Envia por FTPS só os arquivos alterados (a Action guarda um registro de sincronização no servidor).
+#
+# Secrets necessários (GitHub → Settings → Secrets and variables → Actions):
+#   FTP_SERVER    IP ou host do FTP (hPanel → Arquivos → Contas FTP), ex.: 147.93.37.26
+#   FTP_USERNAME  usuário da conta FTP de deploy (com diretório = public_html)
+#   FTP_PASSWORD  senha dessa conta
+name: Deploy na Hostinger
 
 on:
   push:
@@ -10,34 +15,51 @@ on:
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 concurrency:
-  group: deploy
+  group: deploy-hostinger
   cancel-in-progress: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Verificar secrets
+        id: cfg
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          if [ -z "$FTP_SERVER" ] || [ -z "$FTP_USERNAME" ] || [ -z "$FTP_PASSWORD" ]; then
+            echo "::warning::Secrets FTP_SERVER/FTP_USERNAME/FTP_PASSWORD ausentes; deploy pulado."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.cfg.outputs.ok == 'true'
 
-      - name: Montar a pasta publicada
+      - name: Conferir o pacote
+        if: steps.cfg.outputs.ok == 'true'
         run: |
-          mkdir -p "$RUNNER_TEMP/site"
-          rsync -a --delete \
-            --exclude README.md --exclude .gitignore --exclude 'api/config.php' \
-            static-site/ "$RUNNER_TEMP/site/"
-          test -f "$RUNNER_TEMP/site/index.html"
-          test -f "$RUNNER_TEMP/site/en/index.html"
+          test -f static-site/index.html
+          test -f static-site/en/index.html
+          test ! -f static-site/api/config.php
 
-      - name: Publicar na branch deploy
-        run: |
-          cd "$RUNNER_TEMP/site"
-          git init -q -b deploy
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -q -m "Deploy de ${GITHUB_SHA::7}"
-          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" deploy
+      - name: Enviar por FTPS para public_html
+        if: steps.cfg.outputs.ok == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./static-site/
+          server-dir: ./
+          exclude: |
+            **/.git*
+            **/.git*/**
+            README.md
+            api/config.php

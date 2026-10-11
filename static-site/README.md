@@ -103,15 +103,20 @@ Depois acesse http://localhost:8080
 
 ## Publicar na Hostinger
 
-Requer um plano de **hospedagem** (Premium, Business ou Cloud), que roda PHP e
-dá acesso ao Gerenciador de Arquivos. O Hostinger Website Builder não aceita
-arquivos próprios.
+**Automático:** cada push no `main` que mude `static-site/` dispara a Action
+`.github/workflows/deploy.yml`, que envia por FTPS só os arquivos alterados para
+`public_html`. Ela usa três secrets do repositório: `FTP_SERVER`, `FTP_USERNAME` e
+`FTP_PASSWORD`. Use uma conta FTP com diretório `public_html`, criada em hPanel →
+Arquivos → Contas FTP, para que o deploy nunca alcance o `psiconometria-config.php`,
+que fica um nível acima. Sem os secrets, a Action apenas avisa e não publica nada.
 
-1. hPanel → Sites → psiconometria.com → **Gerenciador de Arquivos** → `public_html`.
-2. Envie o pacote `psiconometria-site.zip` e use **Extrair** (ou envie o conteúdo de `static-site/` por FTP).
-3. Crie `psiconometria-config.php` um nível acima de `public_html`, a partir do modelo.
-4. Confirme que o SSL está ativo (hPanel → Segurança → SSL).
-5. Teste o formulário em `/sobre.html#contato`.
+Para publicar de novo sem mudar nada, use GitHub → Actions → "Deploy na Hostinger" → *Run workflow*.
+
+**Manual:** gere um zip com o conteúdo de `static-site/`, envie pelo Gerenciador de
+Arquivos para `public_html` e extraia sobrescrevendo.
+
+O plano precisa ser de **hospedagem** (Premium, Business ou Cloud). O Website Builder
+não aceita arquivos próprios.
 
 ## Diferenças em relação à versão React
 
