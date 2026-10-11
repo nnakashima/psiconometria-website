@@ -1,0 +1,28 @@
+// Glossário inicial da Psiconometria — definições curtas com exemplo empresarial.
+
+export const GLOSSARIO = [
+    { termo: 'Absenteísmo', definicao: 'Percentual de tempo de trabalho perdido por ausências não planejadas.', exemplo: 'Uma equipe com 5% de absenteísmo perde, em média, 1 dia por mês a cada 20 trabalhados.' },
+    { termo: 'Causalidade', definicao: 'Relação em que a mudança em um fator produz mudança em outro — exige desenho de pesquisa adequado para ser afirmada.', exemplo: 'Mostrar que um treinamento causou melhora exige comparar com um grupo semelhante que não passou por ele.' },
+    { termo: 'Capital humano', definicao: 'Conjunto de conhecimentos, habilidades e capacidades das pessoas de uma organização.', exemplo: 'A experiência acumulada dos operadores de uma planta é capital humano que nenhum manual substitui.' },
+    { termo: 'Capital organizacional', definicao: 'Conhecimento incorporado em processos, cultura, rotinas e sistemas — permanece quando pessoas saem.', exemplo: 'Um playbook de vendas testado é capital organizacional; o talento do vendedor, não.' },
+    { termo: 'Confiabilidade', definicao: 'Consistência de uma medida: quanto do resultado é sinal estável e quanto é erro.', exemplo: 'Se a mesma pesquisa aplicada duas vezes dá resultados muito diferentes sem motivo, sua confiabilidade é baixa.' },
+    { termo: 'Construto', definicao: 'Conceito teórico não diretamente observável, definido para ser medido por indicadores.', exemplo: 'Engajamento é um construto: medimos vigor, dedicação e absorção como seus indicadores.' },
+    { termo: 'Correlação', definicao: 'Associação estatística entre duas variáveis — não implica que uma cause a outra.', exemplo: 'Equipes engajadas vendem mais; mas vender mais também engaja. Correlação não decide a direção.' },
+    { termo: 'Dados em painel', definicao: 'Dados das mesmas unidades (pessoas, equipes, filiais) acompanhadas em vários momentos.', exemplo: 'Medir o clima das mesmas 40 equipes a cada trimestre por dois anos.' },
+    { termo: 'Diferença-em-diferenças', definicao: 'Método quase-experimental que compara a mudança de um grupo tratado com a de um grupo de comparação.', exemplo: 'O retrabalho caiu 8% nas plantas com o programa e 1% nas demais: o efeito estimado é de 7 pontos.' },
+    { termo: 'Efeito incremental', definicao: 'O quanto um resultado melhora além do que aconteceria sem a intervenção.', exemplo: 'Não é "a equipe bateu a meta após o treinamento", e sim "bateu 6 pontos acima do esperado sem ele".' },
+    { termo: 'Endogeneidade', definicao: 'Quando a variável explicativa se confunde com o resultado — por causalidade reversa ou causas ocultas.', exemplo: 'Contratar consultoria e melhorar podem ter uma causa comum: a empresa já estava se organizando.' },
+    { termo: 'Intervalo de confiança', definicao: 'Faixa que expressa a incerteza de uma estimativa.', exemplo: '"Ganho entre 1% e 7%" é mais honesto que "ganho de 4%" — e muda a decisão.' },
+    { termo: 'Invariância', definicao: 'Propriedade de um instrumento medir o mesmo construto do mesmo jeito em grupos diferentes.', exemplo: 'Uma escala de liderança deve significar o mesmo para equipes de São Paulo e de Manaus.' },
+    { termo: 'KPI antecedente', definicao: 'Indicador que se move antes do resultado final e sinaliza sua direção.', exemplo: 'Relatos precoces de erro antecedem a queda do retrabalho.' },
+    { termo: 'KPI resultante', definicao: 'Indicador final de resultado, geralmente financeiro ou de mercado.', exemplo: 'Margem, receita por colaborador e retenção de clientes são KPIs resultantes.' },
+    { termo: 'Linha de base', definicao: 'Medição do estado anterior a qualquer intervenção — referência para avaliar mudança.', exemplo: 'Sem saber que o turnover era 22% antes do programa, "caiu para 18%" não significa nada.' },
+    { termo: 'Segurança psicológica', definicao: 'Percepção compartilhada de que é seguro assumir riscos interpessoais na equipe.', exemplo: 'Admitir "não sei" ou "errei" em reunião sem medo de punição.' },
+    { termo: 'Teste A/B', definicao: 'Experimento que sorteia unidades entre duas versões para isolar o efeito de uma mudança.', exemplo: 'Metade das equipes recebe o novo formato de reunião; a outra metade mantém o atual.' },
+    { termo: 'Validade', definicao: 'Grau em que as evidências apoiam a interpretação de uma medida para um uso específico.', exemplo: 'Um teste válido para desenvolvimento pode não ter validade demonstrada para seleção.' },
+    { termo: 'Validade preditiva', definicao: 'Capacidade de uma medida de antecipar um resultado futuro relevante.', exemplo: 'Entrevistas estruturadas têm validade preditiva alta para desempenho no cargo.' },
+    { termo: 'Variável latente', definicao: 'Variável não observada diretamente, inferida a partir de indicadores.', exemplo: 'Não vemos "conscienciosidade"; vemos pontualidade, organização e persistência.' },
+    { termo: 'Variável mediadora', definicao: 'O elo do mecanismo: explica por que um fator afeta um resultado.', exemplo: 'Segurança psicológica → relato precoce de erros (mediador) → menos retrabalho.' },
+    { termo: 'Variável moderadora', definicao: 'Fator que muda a força ou a direção de uma relação.', exemplo: 'O efeito do treinamento é forte quando o gestor apoia a aplicação — e quase nulo sem esse apoio.' },
+    { termo: 'Viés', definicao: 'Distorção sistemática em dados, medidas ou julgamentos.', exemplo: 'Se só os mais satisfeitos respondem à pesquisa de clima, o resultado tem viés de seleção.' },
+];
