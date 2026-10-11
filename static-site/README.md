@@ -24,9 +24,11 @@ static-site/
 │   ├── data.js                # Conteúdo editorial estruturado (inalterado em relação ao React)
 │   ├── content.js             # Textos das páginas: equação, exemplo, dores, distinções, etapas, princípios
 │   ├── app.js                 # Cabeçalho, rodapé, interatividade e envio de formulários
-│   ├── config.js              # Endereço do serviço de formulários (API_BASE)
+│   ├── config.js              # Endereços dos scripts de formulário
 │   ├── favicon.svg
 │   └── fonts/                 # Hanken Grotesk e STIX Two (SIL Open Font License), hospedadas localmente
+├── api/                     # Scripts PHP dos formulários (Resend)
+├── .htaccess                # Cabeçalhos de segurança e cache
 ├── sitemap.xml
 └── robots.txt
 ```
@@ -40,31 +42,48 @@ static-site/
 
 ## Formulários (contato e newsletter)
 
-Os formulários enviam para o serviço em `services/contact-api`, que entrega por
-e-mail via Resend. Depois de publicar esse serviço (instruções no README dele),
-coloque o endereço em `assets/config.js`:
+Os formulários enviam para dois scripts PHP na pasta `api/`, que entregam por
+e-mail via [Resend](https://resend.com). Eles rodam na própria hospedagem do site:
+não há servidor separado.
 
-```js
-window.PSICO_CONFIG = { API_BASE: 'https://psiconometria-contato.up.railway.app' };
-```
+| Arquivo              | Função                                                          |
+|----------------------|-----------------------------------------------------------------|
+| `api/contact.php`    | Formulário da página Sobre → e-mail para a equipe, com "responder para" o remetente |
+| `api/subscribe.php`  | "Receba novos estudos" → audiência do Resend (opcional) + aviso por e-mail |
+| `api/_lib.php`       | Validação, limite de 5 envios por IP a cada 10 min, campo-isca, chamada ao Resend |
+| `api/config.sample.php` | Modelo de configuração (sem a chave real)                    |
 
-Enquanto `API_BASE` estiver vazio, os formulários mostram a mensagem de erro de
-envio, em vez de fingir que a mensagem foi registrada.
+**Configuração (uma vez, no servidor):** copie `api/config.sample.php` para um
+arquivo `psiconometria-config.php` **fora** de `public_html` (um nível acima) e
+preencha a chave do Resend, o remetente e o destinatário. A chave nunca vai para o Git.
+Alternativa: salvar como `api/config.php`; o `.htaccess` da pasta bloqueia o acesso pela web.
+
+O remetente (`MAIL_FROM`) precisa usar um domínio verificado no Resend
+(Resend → Domains → `psiconometria.com`, com os registros DNS publicados).
+
+Sem configuração, os formulários respondem com a mensagem de erro de envio,
+em vez de fingir que a mensagem foi registrada.
 
 ## Visualizar localmente
 
 ```bash
 cd static-site
-python3 -m http.server 8080   # ou: npx serve
+php -S localhost:8080        # serve o site e os scripts da pasta api/
 ```
 
 Depois acesse http://localhost:8080
 
-## Publicar
+## Publicar na Hostinger
 
-Envie o conteúdo de `static-site/` para a pasta pública da hospedagem
-(Hostinger, Netlify, Vercel, GitHub Pages ou um serviço estático no Railway).
-Não há build. Os links são relativos, então funcionam também em subcaminhos.
+Requer um plano de **hospedagem** (Premium, Business ou Cloud), que roda PHP e
+dá acesso ao Gerenciador de Arquivos. O Hostinger Website Builder não aceita
+arquivos próprios.
+
+1. hPanel → Sites → psiconometria.com → **Gerenciador de Arquivos** → `public_html`.
+2. Envie o pacote `psiconometria-site.zip` e use **Extrair** (ou envie o conteúdo de `static-site/` por FTP).
+3. Crie `psiconometria-config.php` um nível acima de `public_html`, a partir do modelo.
+4. Confirme que o SSL está ativo (hPanel → Segurança → SSL).
+5. Teste o formulário em `/sobre.html#contato`.
 
 ## Diferenças em relação à versão React
 

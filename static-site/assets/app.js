@@ -95,9 +95,10 @@
   }
 
   /* ---------- envio de formulários ---------- */
-  function post(path, payload) {
-    if (!CFG.API_BASE) return Promise.reject(new Error('sem-api'));
-    return fetch(CFG.API_BASE.replace(/\/$/, '') + path, {
+  function post(kind, payload) {
+    var url = kind === 'contact' ? CFG.CONTACT_URL : CFG.SUBSCRIBE_URL;
+    if (!url) return Promise.reject(new Error('sem-endpoint'));
+    return fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)
@@ -118,7 +119,7 @@
       msg.className = 'form-msg';
       if (!email || !form.email.checkValidity()) { msg.className = 'form-msg err'; msg.textContent = 'Informe um e-mail válido para assinar.'; return; }
       var btn = form.querySelector('button'); btn.disabled = true; btn.textContent = 'Enviando…';
-      post('/subscribe', { email: email, origem: 'rodape', site: form.site.value })
+      post('subscribe', { email: email, origem: 'rodape', site: form.site.value })
         .then(function () { form.remove(); msg.textContent = 'Inscrição registrada. Obrigado.'; })
         .catch(function () { msg.className = 'form-msg err'; msg.textContent = 'Não foi possível registrar. Tente novamente.'; btn.disabled = false; btn.textContent = 'Assinar'; });
     });
@@ -153,7 +154,7 @@
       if (!data.nome || !data.email || !data.interesse) { err.textContent = 'Preencha nome, e-mail e interesse para enviar.'; err.hidden = false; return; }
       if (!form.email.checkValidity()) { err.textContent = 'O e-mail informado não parece válido. Confira e tente de novo.'; err.hidden = false; form.email.focus(); return; }
       var btn = form.querySelector('button[type="submit"]'); btn.disabled = true; btn.textContent = 'Enviando…';
-      post('/contact', data).then(function () {
+      post('contact', data).then(function () {
         root.innerHTML = '<div class="form-done" role="status"><h3>Mensagem registrada</h3><p class="muted">Obrigado pelo interesse. Retornaremos pelo e-mail informado. Enquanto isso, explore a <a class="link" href="matriz.html">Matriz Pessoas × KPIs</a> ou o <a class="link" href="laboratorio.html">Laboratório de impacto</a>.</p></div>';
       }).catch(function () {
         err.textContent = 'Não foi possível enviar agora. Tente novamente em instantes.'; err.hidden = false;

@@ -1,6 +1,6 @@
 /* Configuração do site estático.
-   API_BASE: endereço do serviço de formulários (apps/contact-api), sem barra no final.
-   Ex.: 'https://psiconometria-contato.up.railway.app'. Vazio = formulários mostram erro de envio. */
+   Endereços dos scripts de formulário (pasta api/, mesma hospedagem do site). */
 window.PSICO_CONFIG = {
-  API_BASE: ''
+  CONTACT_URL: 'api/contact.php',
+  SUBSCRIBE_URL: 'api/subscribe.php'
 };
