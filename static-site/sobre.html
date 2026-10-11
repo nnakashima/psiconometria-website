@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sobre, ética e contato | Psiconometria</title>
+<meta name="description" content="Manifesto, princípios metodológicos, política de fontes, ética e privacidade da Psiconometria — e como propor um projeto-piloto ou colaboração.">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-page="sobre">
+<header id="site-header"></header>
+<main>
+  <section class="container-narrow section" style="padding-top:3.5rem">
+    <p class="eyebrow">Sobre</p>
+    <h1 class="h1" style="margin-top:1rem">Manifesto da Psiconometria</h1>
+    <blockquote class="serif italic" style="margin:2rem 0 0;border-left:2px solid var(--amber);padding-left:1.5rem;font-size:1.5rem;font-weight:300;line-height:1.6;color:rgba(28,32,36,0.9)">Compreender pessoas sem reduzir pessoas a números. Transformar fatores humanos em hipóteses mensuráveis — e hipóteses em decisões verificáveis, com rigor quantitativo, contexto e ética.</blockquote>
+    <p class="lead" style="margin-top:1.5rem">Pessoas não são ativos mecânicos, rankings ou meros recursos produtivos. A Psiconometria existe para que organizações tratem fatores humanos com o mesmo rigor com que tratam números — e tratem números sobre pessoas com o mesmo cuidado com que tratam pessoas.</p>
+
+    <figure style="margin:2.5rem 0 0">
+      <img src="https://images.hostinger.com/4f47b864-f70e-4130-8608-505367283e70.png" alt="Roda de conversa em sessão de aprendizagem corporativa em empresa brasileira" style="aspect-ratio:3/2;width:100%;object-fit:cover" loading="lazy">
+      <figcaption style="margin-top:0.5rem;font-size:11px;color:rgba(28,32,36,0.6)">Aprendizagem coletiva: o ativo que nenhum dashboard captura sozinho.</figcaption>
+    </figure>
+
+    <div id="sobre-principios" style="margin-top:3rem"></div>
+
+    <div style="margin-top:3rem;border:1px dashed rgba(28,32,36,0.3);padding:1.5rem">
+      <p class="eyebrow eyebrow-muted">Informações institucionais</p>
+      <p class="serif italic" style="margin:0.5rem 0 0;font-size:0.875rem;line-height:1.6;color:rgba(28,32,36,0.6)">[Marcador editável: equipe, credenciais, clientes, parceiros e endereço serão publicados aqui quando fornecidos — sem invenções.]</p>
+    </div>
+
+    <div id="contato" class="scroll-mt" style="margin-top:3.5rem;border-top:2px solid var(--graphite);padding-top:2.5rem">
+      <div class="grid-12">
+        <div class="col-5">
+          <h2 class="h2 serif italic">Contato</h2>
+          <p style="margin-top:1rem;font-size:0.875rem;line-height:1.7;color:rgba(28,32,36,0.75)">Empresas interessadas em diagnóstico organizacional não clínico ou projetos-piloto, e pesquisadores e profissionais interessados em colaboração, são bem-vindos.</p>
+          <p style="margin-top:1rem;font-size:0.875rem;line-height:1.7;color:rgba(28,32,36,0.75)">Responderemos pelo e-mail informado. Nenhum dado psicológico é solicitado neste formulário.</p>
+        </div>
+        <div class="col-7">
+          <form id="contact-form" style="display:grid;gap:1rem">
+            <div class="field"><label for="c-nome">Nome</label><input type="text" id="c-nome" name="nome" required></div>
+            <div class="field"><label for="c-email">E-mail</label><input type="email" id="c-email" name="email" required></div>
+            <div class="field"><label for="c-interesse">Interesse</label>
+              <select id="c-interesse" name="interesse">
+                <option value="diagnostico">Diagnóstico organizacional</option>
+                <option value="piloto">Projeto-piloto</option>
+                <option value="colaboracao">Colaboração / pesquisa</option>
+                <option value="conteudo">Conteúdo / newsletter</option>
+                <option value="outro">Outro</option>
+              </select>
+            </div>
+            <div class="field"><label for="c-msg">Mensagem</label><textarea id="c-msg" name="mensagem" rows="5" required></textarea></div>
+            <button type="submit" class="btn">Enviar mensagem →</button>
+            <p id="contact-msg" style="display:none;font-size:0.875rem;color:var(--teal)">Mensagem registrada. Entraremos em contato pelo e-mail informado.</p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer id="site-footer"></footer>
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+<script>
+(function(){
+  var BLOCOS=[
+    {titulo:'Princípios metodológicos',items:['Toda afirmação factual indica fonte, ano e tipo de evidência.','Correlação e causalidade são sempre separadas.','Estimativas vêm com intervalos e premissas visíveis.','Nenhum instrumento decide sozinho sobre pessoas.','Contexto, população e propósito limitam toda conclusão.','Hipóteses são registradas antes dos resultados.']},
+    {titulo:'Política de fontes',items:['Prioridade a fontes acadêmicas, institucionais e primárias.','Resumimos e contextualizamos — nunca copiamos textos.','Distinguimos dado global de dado brasileiro.','Sinalizamos quando a evidência é observacional.','Não transportamos conclusões entre contextos sem ressalva.']},
+    {titulo:'Ética, privacidade e uso responsável',items:['Psiconometria não substitui avaliação psicológica profissional.','Testes de uso privativo exigem profissionais habilitados; o SATEPSI deve ser consultado de forma atualizada.','Perfis não são diagnósticos.','Dados comportamentais exigem finalidade legítima, minimização, segurança e governança (LGPD).','Decisões automatizadas que afetam pessoas precisam de transparência e revisão.','Resultados individuais nunca aparecem em dashboards coletivos; usamos anonimização e limites mínimos de grupo.','Este site não coleta dados psicológicos antes de consentimento, governança e segurança adequados.']}
+  ];
+  function run(){
+    var root=document.getElementById('sobre-principios');
+    root.innerHTML=BLOCOS.map(function(b){
+      return '<div style="border-top:1px solid rgba(28,32,36,0.15);padding:1.5rem 0"><h2 style="font-size:0.875rem;font-weight:700;text-transform:uppercase;letter-spacing:0.14em;font-family:Archivo,sans-serif;margin:0">'+b.titulo+'</h2><ul style="margin:1rem 0 0;display:grid;gap:0.625rem;padding:0;list-style:none;grid-template-columns:1fr">'+b.items.map(function(i){return '<li style="border-left:1px solid rgba(20,80,92,0.4);padding-left:0.75rem;font-size:0.875rem;line-height:1.6;color:rgba(28,32,36,0.75)">'+i+'</li>';}).join('')+'</ul></div>';
+    }).join('');
+    if(window.matchMedia('(min-width:768px)').matches) Array.prototype.forEach.call(root.querySelectorAll('ul'),function(u){u.style.gridTemplateColumns='1fr 1fr';});
+    var form=document.getElementById('contact-form');
+    if(form) form.addEventListener('submit',function(e){e.preventDefault();document.getElementById('contact-msg').style.display='block';form.reset();});
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run); else run();
+})();
+</script>
+</body>
+</html>
