@@ -11,6 +11,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
+import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'node-html-parser';
 
@@ -173,8 +174,19 @@ function build() {
         .replace(/<link rel="canonical" href="[^"]*">/, `<link rel="canonical" href="${BASE_URL}${l}/${p === 'index.html' ? '' : p}">`)
         .replace(/<meta property="og:url" content="[^"]*">/, `<meta property="og:url" content="${BASE_URL}${l}/${p === 'index.html' ? '' : p}">`)
         .replace(/(href|src)="assets\//g, '$1="../assets/')
-        .replace(/src="\.\.\/assets\/(data|content|app)\.js"/g, `src="../assets/i18n/${l}/$1.js"`);
+        .replace(/src="\.\.\/assets\/(data|content|app)\.js(?:\?v=[0-9a-f]+)?"/g, `src="../assets/i18n/${l}/$1.js"`);
       fs.writeFileSync(path.join(outDir, p), s);
+    }
+  }
+
+  // Versão nos links de CSS/JS (hash do conteúdo): cada publicação nova é baixada na hora,
+  // mesmo com o cache longo definido no .htaccess.
+  const hash = (f) => crypto.createHash('sha1').update(fs.readFileSync(f)).digest('hex').slice(0, 8);
+  for (const dir of [''].concat(TARGETS.map((l) => LANGS[l].dir))) {
+    for (const p of PAGES) {
+      const f = path.join(SITE, dir, p);
+      const s = fs.readFileSync(f, 'utf8').replace(/((?:href|src)="((?:\.\.\/)?assets\/[^"?]+\.(?:css|js)))(?:\?v=[0-9a-f]+)?"/g, (m, attr, rel) => `${attr}?v=${hash(path.join(SITE, dir, rel))}"`);
+      fs.writeFileSync(f, s);
     }
   }
 
